@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Market,Category,Amount_USD,Fee_USD,Payment_Type,Fraud_Flag,Merchant,Customer_Tier
+TXN-00001,2024-09-01,South Africa,Electronics,126.87,3.04,Card,No,Woolworths,Standard
+TXN-00002,2024-01-07,Nigeria,Utilities,74.44,1.76,Mobile Money,No,Air Peace,Standard
+TXN-00003,2024-11-01,South Africa,Groceries,39.12,0.77,Card,No,DSTV SA,Standard
+TXN-00004,2024-02-28,Nigeria,Electronics,394.57,7.5,QR Code,No,Air Peace,Standard
+TXN-00005,2024-11-20,South Africa,Food & Dining,8.83,0.21,Card,No,Netcare,Standard
+TXN-00006,2024-11-13,Nigeria,Utilities,43.32,0.85,Mobile Money,No,Slot,Standard
+TXN-00007,2024-08-06,Ghana,Electronics,252.46,6.41,Card,No,MultiChoice Ghana,Standard
+TXN-00008,2024-11-25,Kenya,Entertainment,40.6,0.75,QR Code,No,Java House,Premium
+TXN-00009,2024-04-16,Nigeria,Health,120.65,2.41,Card,No,Dangote Store,Standard
+TXN-00010,2024-06-19,Nigeria,Electronics,1487.98,27.87,Mobile Money,No,GTBank,Business
+TXN-00011,2024-11-14,Ghana,Food & Dining,30.74,0.62,Mobile Money,No,KFC Ghana,Standard
+TXN-00012,2024-09-18,South Africa,Entertainment,18.21,0.35,Mobile Money,No,Eskom,Standard
+TXN-00013,2024-12-25,Kenya,Health,235.93,5.45,Mobile Money,No,Quickmart,Premium
+TXN-00014,2024-08-25,South Africa,Health,205.67,3.89,Card,No,Eskom,Standard
+TXN-00015,2024-04-08,South Africa,Health,204.68,3.8,Card,No,Pick n Pay,Standard
+TXN-00016,2024-09-18,Kenya,Utilities,174.12,4.43,Card,No,Safaricom,Premium
+TXN-00017,2024-06-22,Ghana,Food & Dining,11.66,0.23,Mobile Money,No,Africa World Airlines,Standard
+TXN-00018,2024-08-01,Kenya,Utilities,91.49,2.28,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00019,2024-04-05,South Africa,Health,112.34,2.45,Card,No,DSTV SA,Standard
+TXN-00020,2024-05-14,Nigeria,Entertainment,88.69,1.67,Mobile Money,No,Slot,Premium
+TXN-00021,2024-04-07,Ghana,Groceries,59.81,1.5,Mobile Money,No,Maxmart,Standard
+TXN-00022,2024-02-21,South Africa,Entertainment,163.03,4.04,Mobile Money,No,Netcare,Business
+TXN-00023,2024-11-02,Kenya,Groceries,111.77,2.71,Mobile Money,No,DStv Kenya,Standard
+TXN-00024,2024-09-16,Kenya,Food & Dining,126.89,2.83,Card,No,Equity Bank,Business
+TXN-00025,2024-07-28,Ghana,Groceries,103.35,1.92,Mobile Money,No,Palace Mall,Standard
+TXN-00026,2024-02-19,Nigeria,Utilities,84.17,1.91,Card,No,EKEDC,Premium
+TXN-00027,2024-09-11,Nigeria,Food & Dining,37.65,0.77,Card,No,Netflix Nigeria,Premium
+TXN-00028,2024-09-19,South Africa,Groceries,37.7,0.96,Card,No,Steers,Standard
+TXN-00029,2024-05-15,South Africa,Transfers,8886.06,20.51,Mobile Money,No,Eskom,Premium
+TXN-00030,2024-12-04,South Africa,Groceries,19.99,0.45,Card,No,Steers,Standard
+TXN-00031,2024-03-21,South Africa,Travel,2277.74,41.92,Card,No,Woolworths,Standard
+TXN-00032,2024-01-25,Kenya,Health,187.9,4.44,Mobile Money,No,Quickmart,Standard
+TXN-00033,2024-08-27,Nigeria,Utilities,13.76,0.29,QR Code,No,Shoprite Nigeria,Standard
+TXN-00034,2024-12-07,Ghana,Transfers,2821.42,7.76,QR Code,No,Africa World Airlines,Standard
+TXN-00035,2024-11-26,South Africa,Health,299.89,6.19,QR Code,No,Netcare,Standard
+TXN-00036,2024-04-26,Ghana,Food & Dining,30.89,0.61,QR Code,No,Africa World Airlines,Standard
+TXN-00037,2024-04-22,Kenya,Food & Dining,104.67,2.12,Mobile Money,No,DStv Kenya,Premium
+TXN-00038,2024-05-01,Kenya,Health,385.76,7.76,Mobile Money,No,Java House,Standard
+TXN-00039,2024-06-17,Kenya,Health,36.87,0.79,Mobile Money,No,KPLC,Standard
+TXN-00040,2024-06-03,South Africa,Health,487.74,9.27,QR Code,No,DSTV SA,Premium
+TXN-00041,2024-05-23,Nigeria,Groceries,113.32,2.65,QR Code,No,Air Peace,Standard
+TXN-00042,2024-06-27,Kenya,Food & Dining,36.9,0.86,Mobile Money,No,KPLC,Standard
+TXN-00043,2024-07-26,South Africa,Entertainment,8.82,0.2,Card,No,Netcare,Standard
+TXN-00044,2024-09-08,South Africa,Groceries,118.2,2.71,Card,No,Takealot,Standard
+TXN-00045,2024-03-23,Nigeria,Food & Dining,42.82,1.08,Card,No,CMS Hospital,Standard
+TXN-00046,2024-04-26,South Africa,Travel,683.06,16.93,Card,No,Checkers,Standard
+TXN-00047,2024-12-20,Nigeria,Entertainment,41.68,1.05,Mobile Money,No,Netflix Nigeria,Standard
+TXN-00048,2024-12-24,South Africa,Travel,3798.6,76.8,Card,No,Netcare,Premium
+TXN-00049,2024-04-03,Ghana,Electronics,719.77,13.42,Mobile Money,No,ECG Ghana,Standard
+TXN-00050,2024-10-03,Nigeria,Food & Dining,8.42,0.21,Mobile Money,No,Shoprite Nigeria,Standard
+TXN-00051,2024-11-25,Ghana,Travel,2753.14,58.15,QR Code,No,Maxmart,Business
+TXN-00052,2024-10-18,South Africa,Health,123.72,2.71,Card,No,DSTV SA,Standard
+TXN-00053,2024-10-27,Nigeria,Groceries,17.5,0.37,Card,No,CMS Hospital,Premium
+TXN-00054,2024-03-15,Kenya,Electronics,391.02,8.09,QR Code,No,KQ Airways,Standard
+TXN-00055,2024-04-03,Nigeria,Entertainment,47.84,0.95,Mobile Money,No,Shoprite Nigeria,Standard
+TXN-00056,2024-10-08,Kenya,Groceries,22.14,0.52,Mobile Money,No,Safaricom,Standard
+TXN-00057,2024-10-06,Ghana,Health,566.68,10.94,Mobile Money,No,Korle Bu Hospital,Premium
+TXN-00058,2024-08-13,Nigeria,Transfers,3468.54,7.82,Mobile Money,No,Dangote Store,Standard
+TXN-00059,2024-11-26,South Africa,Entertainment,24.28,0.51,Card,No,DSTV SA,Standard
+TXN-00060,2024-11-04,Nigeria,Food & Dining,103.3,1.99,Mobile Money,No,Air Peace,Business
+TXN-00061,2024-09-18,South Africa,Travel,2715.04,55.87,Mobile Money,No,Eskom,Premium
+TXN-00062,2024-11-08,South Africa,Utilities,70.51,1.55,Card,No,Steers,Premium
+TXN-00063,2024-11-11,Nigeria,Utilities,205.63,4.55,Mobile Money,No,CMS Hospital,Business
+TXN-00064,2024-07-25,Nigeria,Travel,2083.0,37.78,Mobile Money,No,EKEDC,Premium
+TXN-00065,2024-05-19,Nigeria,Utilities,99.7,2.23,Mobile Money,No,Air Peace,Standard
+TXN-00066,2024-04-04,South Africa,Food & Dining,103.06,2.42,Mobile Money,No,Eskom,Premium
+TXN-00067,2024-10-25,Ghana,Food & Dining,15.68,0.31,Mobile Money,No,Maxmart,Standard
+TXN-00068,2024-02-02,South Africa,Utilities,35.84,0.89,Card,No,Takealot,Premium
+TXN-00069,2024-05-16,Nigeria,Electronics,755.8,16.49,Card,No,Slot,Standard
+TXN-00070,2024-08-22,Kenya,Groceries,42.03,1.09,Mobile Money,No,Equity Bank,Standard
+TXN-00071,2024-08-20,Nigeria,Utilities,49.84,1.24,QR Code,No,Dangote Store,Standard
+TXN-00072,2024-01-24,Kenya,Entertainment,29.33,0.55,Mobile Money,No,Quickmart,Premium
+TXN-00073,2024-01-15,Ghana,Travel,777.21,15.75,QR Code,Yes,Africa World Airlines,Standard
+TXN-00074,2024-12-26,South Africa,Utilities,47.64,0.9,Mobile Money,No,Eskom,Premium
+TXN-00075,2024-11-03,Kenya,Entertainment,42.09,1.07,Mobile Money,No,Safaricom,Standard
+TXN-00076,2024-09-09,Nigeria,Travel,176.46,3.79,Mobile Money,No,Slot,Standard
+TXN-00077,2024-04-22,South Africa,Utilities,349.86,8.18,Card,No,Pick n Pay,Business
+TXN-00078,2024-07-21,Nigeria,Electronics,1290.99,31.65,QR Code,No,CMS Hospital,Business
+TXN-00079,2024-05-22,Kenya,Groceries,63.49,1.48,Mobile Money,No,Naivas,Standard
+TXN-00080,2024-07-11,Nigeria,Groceries,188.44,4.64,Mobile Money,No,Netflix Nigeria,Premium
+TXN-00081,2024-06-07,Nigeria,Utilities,49.78,0.92,Mobile Money,No,Air Peace,Standard
+TXN-00082,2024-06-23,Nigeria,Groceries,175.06,4.15,Mobile Money,No,CMS Hospital,Premium
+TXN-00083,2024-02-27,South Africa,Travel,2093.79,46.04,Card,No,Eskom,Standard
+TXN-00084,2024-06-16,South Africa,Electronics,337.69,8.57,Card,No,FlySafair,Standard
+TXN-00085,2024-04-26,South Africa,Food & Dining,34.35,0.62,Card,No,Takealot,Premium
+TXN-00086,2024-12-16,South Africa,Travel,884.5,21.32,Card,No,Netcare,Standard
+TXN-00087,2024-12-08,Ghana,Electronics,134.58,3.22,Card,No,Palace Mall,Premium
+TXN-00088,2024-12-26,South Africa,Health,34.07,0.75,Card,No,Cape Union Mart,Standard
+TXN-00089,2024-02-15,Kenya,Groceries,209.87,3.9,Card,No,Equity Bank,Premium
+TXN-00090,2024-09-21,Kenya,Food & Dining,61.13,1.57,Mobile Money,No,Nairobi Hospital,Premium
+TXN-00091,2024-11-02,Ghana,Electronics,467.27,9.26,Mobile Money,No,KFC Ghana,Premium
+TXN-00092,2024-07-23,Nigeria,Groceries,14.29,0.3,Mobile Money,No,CMS Hospital,Standard
+TXN-00093,2024-08-26,Kenya,Groceries,90.04,2.11,Mobile Money,No,KPLC,Premium
+TXN-00094,2024-07-09,Nigeria,Transfers,8208.78,12.93,Card,Yes,Chicken Republic,Business
+TXN-00095,2024-12-10,Ghana,Food & Dining,51.49,1.01,Mobile Money,No,Africa World Airlines,Standard
+TXN-00096,2024-06-12,Ghana,Health,391.62,9.11,Mobile Money,No,Melcom,Standard
+TXN-00097,2024-12-24,Nigeria,Health,323.57,7.4,Mobile Money,No,Dangote Store,Standard
+TXN-00098,2024-04-25,South Africa,Transfers,5682.11,15.95,Card,Yes,Cape Union Mart,Premium
+TXN-00099,2024-01-12,South Africa,Groceries,91.72,1.78,Mobile Money,No,Steers,Standard
+TXN-00100,2024-08-09,South Africa,Electronics,732.72,17.92,Card,No,FlySafair,Premium
+TXN-00101,2024-07-03,Kenya,Health,529.71,13.69,QR Code,No,Java House,Premium
+TXN-00102,2024-02-13,Kenya,Utilities,70.55,1.65,Mobile Money,No,Java House,Standard
+TXN-00103,2024-02-08,Nigeria,Utilities,131.6,3.01,Card,No,Netflix Nigeria,Business
+TXN-00104,2024-12-10,Ghana,Groceries,12.17,0.32,Mobile Money,No,Maxmart,Standard
+TXN-00105,2024-03-15,Nigeria,Health,402.73,9.14,Card,No,Slot,Premium
+TXN-00106,2024-11-20,Nigeria,Health,160.8,3.46,QR Code,No,Slot,Standard
+TXN-00107,2024-12-12,Ghana,Health,171.29,3.34,Mobile Money,No,Vodafone Ghana,Standard
+TXN-00108,2024-02-07,Ghana,Utilities,80.81,1.61,Mobile Money,No,KFC Ghana,Standard
+TXN-00109,2024-11-18,Kenya,Electronics,523.48,10.04,QR Code,Yes,Quickmart,Premium
+TXN-00110,2024-12-18,Nigeria,Groceries,17.26,0.31,Card,No,Chicken Republic,Premium
+TXN-00111,2024-01-09,Kenya,Entertainment,38.55,0.84,Card,No,Carrefour Kenya,Standard
+TXN-00112,2024-07-08,South Africa,Groceries,188.86,4.19,Card,No,Woolworths,Premium
+TXN-00113,2024-12-28,Nigeria,Transfers,4553.02,5.22,Mobile Money,No,Slot,Standard
+TXN-00114,2024-02-20,Ghana,Utilities,99.52,2.21,Mobile Money,No,KFC Ghana,Standard
+TXN-00115,2024-11-04,South Africa,Transfers,6508.5,9.31,Card,Yes,Steers,Premium
+TXN-00116,2024-11-13,Nigeria,Groceries,82.49,1.73,Mobile Money,No,Slot,Standard
+TXN-00117,2024-02-03,Kenya,Groceries,177.6,3.99,Mobile Money,No,Java House,Premium
+TXN-00118,2024-09-14,Nigeria,Transfers,7822.72,19.1,QR Code,No,Chicken Republic,Premium
+TXN-00119,2024-02-17,Kenya,Transfers,585.68,1.58,Mobile Money,No,Equity Bank,Standard
+TXN-00120,2024-04-14,South Africa,Health,453.37,10.49,Mobile Money,No,Eskom,Premium
+TXN-00121,2024-01-09,Ghana,Food & Dining,5.34,0.13,Mobile Money,No,ECG Ghana,Standard
+TXN-00122,2024-10-01,Kenya,Utilities,50.83,0.98,Mobile Money,No,Equity Bank,Standard
+TXN-00123,2024-08-02,Kenya,Entertainment,8.67,0.19,Mobile Money,No,KQ Airways,Standard
+TXN-00124,2024-04-25,Nigeria,Food & Dining,42.3,0.96,Card,No,EKEDC,Standard
+TXN-00125,2024-06-20,Kenya,Electronics,2177.66,52.51,Mobile Money,No,Nairobi Hospital,Business
+TXN-00126,2024-10-06,Kenya,Utilities,60.29,1.41,Mobile Money,No,Naivas,Standard
+TXN-00127,2024-06-15,South Africa,Health,237.89,5.63,Card,No,Woolworths,Standard
+TXN-00128,2024-12-06,South Africa,Utilities,166.76,3.12,Card,No,Takealot,Premium
+TXN-00129,2024-06-03,Nigeria,Food & Dining,23.32,0.45,Card,No,Jumia,Standard
+TXN-00130,2024-03-25,Nigeria,Entertainment,74.74,1.49,Mobile Money,No,Dangote Store,Premium
+TXN-00131,2024-03-25,Ghana,Groceries,112.8,2.71,Card,No,Accra Mall,Premium
+TXN-00132,2024-09-20,Nigeria,Health,187.11,4.07,Card,No,Dangote Store,Standard
+TXN-00133,2024-01-17,Kenya,Travel,972.34,19.74,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00134,2024-09-17,Nigeria,Utilities,265.15,4.86,QR Code,No,EKEDC,Business
+TXN-00135,2024-05-16,Nigeria,Health,328.17,8.11,QR Code,No,GTBank,Standard
+TXN-00136,2024-01-23,Nigeria,Food & Dining,13.73,0.29,Mobile Money,No,Chicken Republic,Standard
+TXN-00137,2024-09-02,South Africa,Transfers,517.8,1.22,Card,No,Takealot,Standard
+TXN-00138,2024-11-11,Kenya,Transfers,5515.28,12.75,Card,Yes,Carrefour Kenya,Business
+TXN-00139,2024-05-13,Ghana,Food & Dining,43.66,1.12,QR Code,No,KFC Ghana,Standard
+TXN-00140,2024-09-14,Nigeria,Groceries,114.53,2.37,Card,No,GTBank,Standard
+TXN-00141,2024-03-10,South Africa,Groceries,182.36,4.57,Mobile Money,No,Takealot,Premium
+TXN-00142,2024-02-13,Kenya,Electronics,927.77,23.4,Card,No,Java House,Premium
+TXN-00143,2024-09-08,South Africa,Utilities,144.33,2.87,Mobile Money,No,Cape Union Mart,Premium
+TXN-00144,2024-12-07,Nigeria,Health,673.27,13.64,Mobile Money,No,GTBank,Business
+TXN-00145,2024-11-26,Ghana,Health,202.62,4.25,QR Code,No,Maxmart,Standard
+TXN-00146,2024-11-10,Kenya,Groceries,65.5,1.61,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00147,2024-11-01,Nigeria,Food & Dining,26.24,0.49,Mobile Money,No,Slot,Standard
+TXN-00148,2024-11-21,Nigeria,Groceries,110.75,2.41,Card,No,Netflix Nigeria,Standard
+TXN-00149,2024-07-01,South Africa,Groceries,24.75,0.63,Card,No,Eskom,Standard
+TXN-00150,2024-04-04,Kenya,Food & Dining,53.44,1.01,QR Code,No,Naivas,Premium
+TXN-00151,2024-09-19,Nigeria,Groceries,76.86,1.53,Mobile Money,No,Slot,Standard
+TXN-00152,2024-07-12,Kenya,Utilities,98.95,2.22,Mobile Money,No,KQ Airways,Standard
+TXN-00153,2024-12-09,South Africa,Food & Dining,18.26,0.42,Mobile Money,No,Steers,Standard
+TXN-00154,2024-02-12,Ghana,Entertainment,40.06,0.87,Card,No,ECG Ghana,Standard
+TXN-00155,2024-01-25,South Africa,Groceries,96.6,2.42,Card,No,DSTV SA,Standard
+TXN-00156,2024-12-18,Nigeria,Groceries,70.37,1.75,Mobile Money,No,Air Peace,Premium
+TXN-00157,2024-02-12,Nigeria,Food & Dining,57.61,1.19,Mobile Money,No,Chicken Republic,Standard
+TXN-00158,2024-12-17,Nigeria,Groceries,56.23,1.46,Mobile Money,No,Slot,Standard
+TXN-00159,2024-02-22,Nigeria,Travel,849.9,18.32,Mobile Money,No,Chicken Republic,Premium
+TXN-00160,2024-09-14,Nigeria,Health,151.31,3.5,Mobile Money,No,GTBank,Business
+TXN-00161,2024-12-05,South Africa,Transfers,674.84,0.99,Card,No,Takealot,Standard
+TXN-00162,2024-01-05,Ghana,Health,309.97,7.0,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00163,2024-04-04,Kenya,Electronics,735.16,13.93,Card,No,KPLC,Standard
+TXN-00164,2024-12-10,Ghana,Health,71.58,1.33,Mobile Money,No,KFC Ghana,Standard
+TXN-00165,2024-11-28,South Africa,Transfers,4983.72,7.88,Card,Yes,Pick n Pay,Premium
+TXN-00166,2024-11-17,Nigeria,Health,193.35,4.24,Mobile Money,No,Netflix Nigeria,Premium
+TXN-00167,2024-11-18,Kenya,Health,171.3,4.07,Mobile Money,No,KQ Airways,Standard
+TXN-00168,2024-11-03,Kenya,Food & Dining,30.62,0.68,Mobile Money,No,DStv Kenya,Standard
+TXN-00169,2024-09-06,South Africa,Groceries,105.24,2.59,Card,No,Pick n Pay,Standard
+TXN-00170,2024-05-23,Nigeria,Health,127.94,2.38,Mobile Money,No,Air Peace,Standard
+TXN-00171,2024-02-10,Ghana,Groceries,132.73,3.01,Mobile Money,No,Accra Mall,Premium
+TXN-00172,2024-05-19,Kenya,Health,380.45,9.19,Mobile Money,No,Equity Bank,Standard
+TXN-00173,2024-06-21,Kenya,Health,263.92,5.39,Mobile Money,No,KQ Airways,Standard
+TXN-00174,2024-05-03,Ghana,Groceries,60.02,1.24,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00175,2024-10-28,Nigeria,Food & Dining,59.26,1.12,Mobile Money,No,Netflix Nigeria,Premium
+TXN-00176,2024-04-04,Kenya,Health,318.51,8.19,QR Code,No,Equity Bank,Premium
+TXN-00177,2024-10-07,South Africa,Travel,1287.0,26.34,Mobile Money,No,Checkers,Standard
+TXN-00178,2024-07-08,Kenya,Food & Dining,32.22,0.81,Card,No,DStv Kenya,Standard
+TXN-00179,2024-01-04,Nigeria,Health,557.06,11.66,Mobile Money,No,EKEDC,Premium
+TXN-00180,2024-06-10,Kenya,Travel,1345.18,34.86,Card,Yes,Carrefour Kenya,Premium
+TXN-00181,2024-06-26,South Africa,Utilities,22.98,0.52,Card,No,Woolworths,Standard
+TXN-00182,2024-03-11,South Africa,Travel,2241.38,42.85,QR Code,No,DSTV SA,Standard
+TXN-00183,2024-12-24,South Africa,Utilities,55.87,1.22,Card,No,Woolworths,Standard
+TXN-00184,2024-06-22,Kenya,Food & Dining,54.43,1.36,Mobile Money,No,Safaricom,Standard
+TXN-00185,2024-12-26,South Africa,Utilities,14.62,0.32,Card,No,DSTV SA,Standard
+TXN-00186,2024-03-22,Nigeria,Utilities,46.48,1.0,Mobile Money,No,EKEDC,Premium
+TXN-00187,2024-06-25,Ghana,Travel,3306.02,78.17,Mobile Money,No,Vodafone Ghana,Premium
+TXN-00188,2024-07-11,South Africa,Travel,1401.98,32.82,Card,No,Eskom,Standard
+TXN-00189,2024-09-07,South Africa,Electronics,756.11,19.55,Card,No,Cape Union Mart,Standard
+TXN-00190,2024-05-12,Ghana,Health,228.57,5.16,Mobile Money,No,Palace Mall,Premium
+TXN-00191,2024-11-25,South Africa,Food & Dining,44.28,0.92,Card,No,Cape Union Mart,Standard
+TXN-00192,2024-04-27,Ghana,Health,124.72,2.86,Mobile Money,No,Maxmart,Premium
+TXN-00193,2024-04-08,Kenya,Food & Dining,17.6,0.43,Mobile Money,No,Quickmart,Premium
+TXN-00194,2024-06-16,Nigeria,Electronics,984.12,22.8,QR Code,No,Dangote Store,Business
+TXN-00195,2024-04-24,South Africa,Health,286.34,7.18,Mobile Money,No,DSTV SA,Business
+TXN-00196,2024-10-06,South Africa,Health,1233.6,22.3,Card,No,Steers,Business
+TXN-00197,2024-05-21,Ghana,Travel,7476.56,162.57,Mobile Money,Yes,ECG Ghana,Business
+TXN-00198,2024-10-21,Nigeria,Electronics,1154.4,26.02,Card,No,CMS Hospital,Premium
+TXN-00199,2024-11-17,Nigeria,Food & Dining,58.99,1.29,QR Code,Yes,CMS Hospital,Standard
+TXN-00200,2024-04-25,Nigeria,Food & Dining,36.51,0.73,Mobile Money,No,Slot,Standard
+TXN-00201,2024-07-06,Nigeria,Travel,6215.41,127.34,Mobile Money,No,Air Peace,Business
+TXN-00202,2024-06-08,Kenya,Groceries,91.75,2.1,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00203,2024-10-26,Ghana,Electronics,616.05,15.39,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00204,2024-02-19,Kenya,Entertainment,45.35,1.01,Mobile Money,No,Nairobi Hospital,Business
+TXN-00205,2024-02-07,Ghana,Travel,4008.88,73.94,Mobile Money,No,Accra Mall,Business
+TXN-00206,2024-01-15,Ghana,Food & Dining,19.0,0.34,Mobile Money,No,Palace Mall,Standard
+TXN-00207,2024-05-03,Ghana,Groceries,414.45,9.03,Mobile Money,No,ECG Ghana,Business
+TXN-00208,2024-10-24,Ghana,Food & Dining,88.04,2.2,QR Code,No,Maxmart,Business
+TXN-00209,2024-02-28,Nigeria,Groceries,67.23,1.6,Mobile Money,Yes,Shoprite Nigeria,Standard
+TXN-00210,2024-12-15,Ghana,Utilities,84.1,1.68,Mobile Money,No,KFC Ghana,Standard
+TXN-00211,2024-01-22,Nigeria,Entertainment,15.04,0.3,Mobile Money,No,Dangote Store,Business
+TXN-00212,2024-09-28,Kenya,Entertainment,15.55,0.31,QR Code,No,DStv Kenya,Standard
+TXN-00213,2024-12-08,South Africa,Entertainment,31.91,0.75,Card,No,Pick n Pay,Standard
+TXN-00214,2024-12-17,Nigeria,Food & Dining,57.17,1.43,QR Code,No,CMS Hospital,Standard
+TXN-00215,2024-08-02,South Africa,Health,572.21,11.76,Card,No,DSTV SA,Premium
+TXN-00216,2024-03-18,Nigeria,Entertainment,36.84,0.9,QR Code,No,CMS Hospital,Standard
+TXN-00217,2024-08-05,Nigeria,Electronics,109.3,2.36,Mobile Money,No,EKEDC,Standard
+TXN-00218,2024-01-13,Ghana,Utilities,46.05,1.11,Card,No,Vodafone Ghana,Premium
+TXN-00219,2024-04-11,Nigeria,Health,92.21,2.21,Card,No,EKEDC,Standard
+TXN-00220,2024-09-23,Kenya,Health,314.7,6.62,Mobile Money,No,Safaricom,Standard
+TXN-00221,2024-06-16,Nigeria,Entertainment,70.33,1.45,Mobile Money,No,Shoprite Nigeria,Premium
+TXN-00222,2024-08-08,South Africa,Groceries,73.41,1.74,Card,No,Netcare,Standard
+TXN-00223,2024-06-27,Nigeria,Utilities,134.71,3.25,Mobile Money,No,Netflix Nigeria,Business
+TXN-00224,2024-07-24,South Africa,Groceries,111.62,2.83,Card,No,Woolworths,Premium
+TXN-00225,2024-07-27,South Africa,Health,557.39,11.87,Card,No,Pick n Pay,Premium
+TXN-00226,2024-01-17,Nigeria,Groceries,202.52,5.12,Card,No,Jumia,Premium
+TXN-00227,2024-08-01,Kenya,Entertainment,17.9,0.39,Card,No,Quickmart,Standard
+TXN-00228,2024-02-04,Ghana,Electronics,419.55,8.74,Card,No,Palace Mall,Premium
+TXN-00229,2024-07-08,South Africa,Electronics,1232.34,28.63,Card,No,FlySafair,Premium
+TXN-00230,2024-06-13,Ghana,Groceries,27.19,0.6,Mobile Money,No,Accra Mall,Standard
+TXN-00231,2024-12-04,South Africa,Health,362.48,8.53,Card,No,FlySafair,Standard
+TXN-00232,2024-09-09,South Africa,Utilities,93.59,1.92,QR Code,No,DSTV SA,Standard
+TXN-00233,2024-12-10,Kenya,Electronics,606.2,15.26,Mobile Money,No,Quickmart,Premium
+TXN-00234,2024-11-23,South Africa,Travel,659.1,14.17,Card,No,Takealot,Business
+TXN-00235,2024-12-13,South Africa,Food & Dining,86.25,1.86,Mobile Money,No,DSTV SA,Premium
+TXN-00236,2024-06-22,Ghana,Food & Dining,37.19,0.74,Mobile Money,No,Palace Mall,Premium
+TXN-00237,2024-10-21,Kenya,Food & Dining,10.03,0.26,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00238,2024-02-06,Nigeria,Utilities,19.3,0.36,Card,No,Chicken Republic,Standard
+TXN-00239,2024-11-01,Nigeria,Food & Dining,54.56,1.38,QR Code,No,GTBank,Standard
+TXN-00240,2024-09-06,Kenya,Food & Dining,8.48,0.18,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00241,2024-06-08,South Africa,Travel,2125.43,40.56,Mobile Money,No,Takealot,Premium
+TXN-00242,2024-06-28,Nigeria,Food & Dining,93.88,2.42,Mobile Money,No,EKEDC,Premium
+TXN-00243,2024-07-06,South Africa,Health,284.08,6.23,Card,No,DSTV SA,Standard
+TXN-00244,2024-05-26,Nigeria,Groceries,74.33,1.66,Card,No,Netflix Nigeria,Standard
+TXN-00245,2024-12-07,Nigeria,Food & Dining,89.81,2.19,Mobile Money,No,Air Peace,Premium
+TXN-00246,2024-04-22,Kenya,Food & Dining,29.7,0.68,Mobile Money,No,KQ Airways,Standard
+TXN-00247,2024-08-26,South Africa,Transfers,5374.84,15.2,Mobile Money,Yes,Steers,Premium
+TXN-00248,2024-03-20,Kenya,Health,305.74,7.34,QR Code,No,Naivas,Premium
+TXN-00249,2024-02-08,Nigeria,Travel,1472.07,31.75,Mobile Money,No,Dangote Store,Standard
+TXN-00250,2024-09-05,Nigeria,Groceries,54.59,1.4,Mobile Money,No,GTBank,Standard
+TXN-00251,2024-05-11,Nigeria,Electronics,407.12,8.76,Card,No,Air Peace,Standard
+TXN-00252,2024-01-23,Kenya,Entertainment,63.36,1.22,QR Code,No,Quickmart,Premium
+TXN-00253,2024-08-11,Ghana,Health,173.92,3.39,Card,No,Melcom,Standard
+TXN-00254,2024-10-07,Nigeria,Food & Dining,16.81,0.34,Card,No,Dangote Store,Standard
+TXN-00255,2024-02-28,Ghana,Food & Dining,11.27,0.26,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00256,2024-08-20,Nigeria,Groceries,59.28,1.15,Card,No,Dangote Store,Standard
+TXN-00257,2024-08-22,Kenya,Groceries,28.5,0.67,Mobile Money,No,Quickmart,Standard
+TXN-00258,2024-08-14,Kenya,Utilities,121.47,3.16,Mobile Money,No,Quickmart,Premium
+TXN-00259,2024-03-27,Nigeria,Groceries,9.07,0.17,Card,No,Jumia,Standard
+TXN-00260,2024-09-14,Ghana,Food & Dining,56.61,1.06,Mobile Money,No,Korle Bu Hospital,Premium
+TXN-00261,2024-01-08,Ghana,Groceries,91.16,2.2,Mobile Money,No,KFC Ghana,Standard
+TXN-00262,2024-04-18,South Africa,Food & Dining,11.68,0.28,Card,No,FlySafair,Premium
+TXN-00263,2024-10-21,South Africa,Food & Dining,101.32,2.11,Card,No,FlySafair,Business
+TXN-00264,2024-10-08,Kenya,Entertainment,78.54,1.8,Mobile Money,No,KPLC,Premium
+TXN-00265,2024-11-26,Kenya,Food & Dining,34.63,0.71,Card,No,Safaricom,Standard
+TXN-00266,2024-12-17,South Africa,Transfers,4815.72,12.38,QR Code,No,Pick n Pay,Standard
+TXN-00267,2024-10-05,Nigeria,Transfers,6871.15,16.16,Mobile Money,No,Air Peace,Premium
+TXN-00268,2024-09-13,Nigeria,Utilities,55.26,1.22,Mobile Money,No,Chicken Republic,Business
+TXN-00269,2024-07-16,Nigeria,Groceries,161.48,3.85,Mobile Money,No,Chicken Republic,Premium
+TXN-00270,2024-11-26,Ghana,Electronics,208.89,4.21,Card,No,Accra Mall,Standard
+TXN-00271,2024-02-28,Nigeria,Food & Dining,12.37,0.23,Card,No,Slot,Premium
+TXN-00272,2024-12-06,Nigeria,Groceries,100.93,2.37,Mobile Money,No,GTBank,Business
+TXN-00273,2024-11-09,Kenya,Food & Dining,41.55,0.96,Mobile Money,No,KPLC,Standard
+TXN-00274,2024-06-03,Ghana,Groceries,22.86,0.45,Card,Yes,MultiChoice Ghana,Standard
+TXN-00275,2024-11-28,Nigeria,Groceries,50.9,1.21,Mobile Money,No,Air Peace,Standard
+TXN-00276,2024-03-25,South Africa,Health,497.22,9.22,Card,No,Pick n Pay,Premium
+TXN-00277,2024-07-24,Kenya,Entertainment,112.61,2.43,Mobile Money,No,Quickmart,Business
+TXN-00278,2024-10-19,South Africa,Food & Dining,48.51,0.97,Card,No,Takealot,Standard
+TXN-00279,2024-08-20,Nigeria,Health,341.89,8.55,Mobile Money,No,EKEDC,Standard
+TXN-00280,2024-10-10,Ghana,Entertainment,27.25,0.57,Mobile Money,No,KFC Ghana,Premium
+TXN-00281,2024-08-01,South Africa,Health,347.11,7.83,Card,No,Cape Union Mart,Standard
+TXN-00282,2024-12-25,Kenya,Utilities,29.42,0.75,QR Code,No,Safaricom,Standard
+TXN-00283,2024-09-17,South Africa,Food & Dining,40.23,0.9,Mobile Money,No,FlySafair,Standard
+TXN-00284,2024-07-07,South Africa,Groceries,73.68,1.78,Card,No,Eskom,Standard
+TXN-00285,2024-09-24,South Africa,Electronics,743.47,14.07,Card,No,Pick n Pay,Standard
+TXN-00286,2024-02-23,Kenya,Groceries,46.83,1.04,Card,No,Java House,Standard
+TXN-00287,2024-02-25,South Africa,Entertainment,45.5,0.94,Card,No,Eskom,Standard
+TXN-00288,2024-10-19,Ghana,Travel,214.16,5.33,Mobile Money,No,KFC Ghana,Standard
+TXN-00289,2024-12-22,South Africa,Electronics,83.03,2.07,Mobile Money,No,DSTV SA,Standard
+TXN-00290,2024-12-06,South Africa,Entertainment,46.13,1.1,Card,No,DSTV SA,Standard
+TXN-00291,2024-12-11,Nigeria,Groceries,64.23,1.62,Mobile Money,No,Shoprite Nigeria,Standard
+TXN-00292,2024-12-03,South Africa,Health,244.38,4.57,Card,No,Eskom,Premium
+TXN-00293,2024-08-10,South Africa,Electronics,778.89,20.24,Card,No,Checkers,Standard
+TXN-00294,2024-10-08,Kenya,Health,225.79,5.21,Card,Yes,Java House,Standard
+TXN-00295,2024-01-22,Nigeria,Entertainment,14.23,0.37,Mobile Money,No,GTBank,Standard
+TXN-00296,2024-10-03,Kenya,Electronics,638.82,16.08,Mobile Money,No,Equity Bank,Premium
+TXN-00297,2024-02-05,Ghana,Food & Dining,8.43,0.2,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00298,2024-12-13,Ghana,Entertainment,17.24,0.32,Mobile Money,No,Accra Mall,Standard
+TXN-00299,2024-02-04,Kenya,Travel,1376.94,35.41,Mobile Money,No,Safaricom,Standard
+TXN-00300,2024-11-03,Kenya,Transfers,6294.64,6.8,Card,Yes,Carrefour Kenya,Premium
+TXN-00301,2024-10-12,Nigeria,Groceries,99.85,1.94,QR Code,No,Jumia,Standard
+TXN-00302,2024-10-08,Kenya,Groceries,36.78,0.68,Card,No,KPLC,Premium
+TXN-00303,2024-11-12,Ghana,Health,242.73,6.15,Mobile Money,No,Africa World Airlines,Standard
+TXN-00304,2024-12-15,South Africa,Groceries,177.01,3.36,QR Code,No,Takealot,Premium
+TXN-00305,2024-06-24,Nigeria,Groceries,47.25,0.93,Mobile Money,No,GTBank,Premium
+TXN-00306,2024-01-20,Ghana,Transfers,4419.75,8.65,Mobile Money,No,Palace Mall,Standard
+TXN-00307,2024-03-26,Ghana,Utilities,146.15,3.79,Card,No,Maxmart,Premium
+TXN-00308,2024-10-12,South Africa,Travel,515.15,10.59,Mobile Money,No,Eskom,Standard
+TXN-00309,2024-01-16,Ghana,Entertainment,170.77,3.21,Card,No,Melcom,Business
+TXN-00310,2024-10-08,Ghana,Health,375.38,9.73,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00311,2024-11-23,Nigeria,Utilities,73.03,1.65,Mobile Money,No,Netflix Nigeria,Premium
+TXN-00312,2024-08-06,Nigeria,Groceries,32.51,0.72,Mobile Money,No,EKEDC,Standard
+TXN-00313,2024-11-11,Ghana,Health,253.28,4.6,Mobile Money,No,KFC Ghana,Premium
+TXN-00314,2024-11-28,Nigeria,Groceries,147.08,3.34,Mobile Money,No,GTBank,Premium
+TXN-00315,2024-10-14,South Africa,Health,150.2,3.87,Card,No,Steers,Premium
+TXN-00316,2024-04-19,South Africa,Food & Dining,37.1,0.72,Mobile Money,No,Takealot,Premium
+TXN-00317,2024-06-25,South Africa,Groceries,199.89,5.15,Mobile Money,No,Cape Union Mart,Premium
+TXN-00318,2024-03-24,Kenya,Food & Dining,39.99,1.03,Card,No,Java House,Standard
+TXN-00319,2024-07-09,Kenya,Transfers,3945.75,9.63,Mobile Money,No,KQ Airways,Standard
+TXN-00320,2024-12-14,Nigeria,Food & Dining,10.58,0.23,Card,No,EKEDC,Standard
+TXN-00321,2024-03-03,South Africa,Groceries,37.25,0.7,Card,No,Pick n Pay,Standard
+TXN-00322,2024-10-18,South Africa,Health,394.4,9.92,Card,No,Pick n Pay,Standard
+TXN-00323,2024-08-14,Kenya,Groceries,29.28,0.69,Card,No,Safaricom,Standard
+TXN-00324,2024-09-10,Nigeria,Groceries,102.06,1.96,Mobile Money,No,Air Peace,Standard
+TXN-00325,2024-11-21,Ghana,Electronics,178.12,3.62,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00326,2024-10-16,Nigeria,Transfers,2743.42,3.76,Card,Yes,Netflix Nigeria,Standard
+TXN-00327,2024-01-15,Nigeria,Electronics,96.23,2.31,Card,No,Chicken Republic,Standard
+TXN-00328,2024-11-14,South Africa,Utilities,85.67,2.1,Card,No,Cape Union Mart,Standard
+TXN-00329,2024-08-08,Nigeria,Groceries,305.72,6.73,QR Code,No,Dangote Store,Business
+TXN-00330,2024-03-25,Nigeria,Health,100.52,1.96,Mobile Money,No,CMS Hospital,Standard
+TXN-00331,2024-03-27,Ghana,Entertainment,45.99,1.16,Mobile Money,No,Palace Mall,Standard
+TXN-00332,2024-08-28,Nigeria,Travel,3565.09,81.94,Card,No,CMS Hospital,Premium
+TXN-00333,2024-03-19,Ghana,Entertainment,162.8,3.66,Mobile Money,No,Maxmart,Business
+TXN-00334,2024-11-14,Nigeria,Transfers,2391.58,3.22,Mobile Money,No,CMS Hospital,Standard
+TXN-00335,2024-01-11,Ghana,Groceries,38.08,0.8,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00336,2024-05-16,South Africa,Transfers,4085.76,6.54,Card,No,Steers,Business
+TXN-00337,2024-04-14,Ghana,Groceries,110.3,2.34,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00338,2024-11-17,South Africa,Groceries,94.29,2.29,Card,No,Pick n Pay,Premium
+TXN-00339,2024-03-27,Kenya,Groceries,13.66,0.29,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00340,2024-07-21,South Africa,Transfers,2469.49,4.67,QR Code,No,Checkers,Standard
+TXN-00341,2024-05-06,South Africa,Electronics,198.38,3.61,Mobile Money,No,Netcare,Premium
+TXN-00342,2024-11-21,Nigeria,Electronics,775.63,19.33,QR Code,No,Netflix Nigeria,Premium
+TXN-00343,2024-12-21,Kenya,Entertainment,32.38,0.83,Card,No,Safaricom,Standard
+TXN-00344,2024-06-13,South Africa,Travel,811.19,17.98,Card,No,Woolworths,Standard
+TXN-00345,2024-07-22,South Africa,Entertainment,31.72,0.64,Card,No,Steers,Standard
+TXN-00346,2024-12-21,Nigeria,Electronics,1374.74,31.91,Mobile Money,No,EKEDC,Premium
+TXN-00347,2024-12-26,South Africa,Entertainment,19.38,0.37,Mobile Money,No,Eskom,Standard
+TXN-00348,2024-04-14,Nigeria,Entertainment,49.76,1.22,Mobile Money,No,Jumia,Standard
+TXN-00349,2024-09-16,South Africa,Transfers,4234.83,11.35,Card,Yes,FlySafair,Standard
+TXN-00350,2024-07-24,Nigeria,Entertainment,22.6,0.53,Mobile Money,No,Chicken Republic,Premium
+TXN-00351,2024-04-28,Nigeria,Entertainment,16.73,0.34,Card,No,Dangote Store,Standard
+TXN-00352,2024-08-20,Kenya,Health,349.65,7.36,Mobile Money,No,Quickmart,Standard
+TXN-00353,2024-03-07,Nigeria,Health,1381.98,26.46,Card,No,Slot,Business
+TXN-00354,2024-07-21,South Africa,Food & Dining,29.86,0.59,Card,No,Pick n Pay,Standard
+TXN-00355,2024-07-25,South Africa,Groceries,56.09,1.2,Card,Yes,Checkers,Standard
+TXN-00356,2024-03-12,South Africa,Health,396.41,7.19,Mobile Money,No,Netcare,Premium
+TXN-00357,2024-09-12,Nigeria,Groceries,42.28,0.78,Mobile Money,No,Netflix Nigeria,Standard
+TXN-00358,2024-10-20,Ghana,Food & Dining,20.95,0.54,Mobile Money,No,ECG Ghana,Premium
+TXN-00359,2024-12-26,Nigeria,Electronics,254.1,6.07,Card,No,Chicken Republic,Premium
+TXN-00360,2024-10-26,Kenya,Health,223.2,4.1,QR Code,No,Naivas,Standard
+TXN-00361,2024-01-04,Nigeria,Food & Dining,31.09,0.6,Card,No,Air Peace,Standard
+TXN-00362,2024-06-04,Ghana,Electronics,262.23,6.46,Mobile Money,No,KFC Ghana,Premium
+TXN-00363,2024-05-26,Kenya,Electronics,247.25,5.49,Mobile Money,No,Safaricom,Standard
+TXN-00364,2024-03-18,Nigeria,Electronics,1009.36,18.19,Card,No,Dangote Store,Business
+TXN-00365,2024-09-05,South Africa,Entertainment,37.56,0.95,Card,No,Eskom,Standard
+TXN-00366,2024-04-02,Kenya,Groceries,40.54,0.99,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00367,2024-11-02,Kenya,Groceries,79.05,1.99,QR Code,No,Carrefour Kenya,Premium
+TXN-00368,2024-06-11,Kenya,Food & Dining,66.19,1.4,QR Code,No,Quickmart,Business
+TXN-00369,2024-02-23,South Africa,Health,101.56,2.57,Card,No,Cape Union Mart,Premium
+TXN-00370,2024-03-13,South Africa,Utilities,160.19,3.82,Card,No,Cape Union Mart,Premium
+TXN-00371,2024-02-14,Nigeria,Groceries,14.52,0.36,Card,No,Dangote Store,Premium
+TXN-00372,2024-04-22,South Africa,Travel,2827.89,60.69,Card,No,DSTV SA,Premium
+TXN-00373,2024-03-27,Ghana,Health,264.49,5.09,Card,No,ECG Ghana,Standard
+TXN-00374,2024-02-16,Nigeria,Food & Dining,32.88,0.74,Mobile Money,No,Slot,Standard
+TXN-00375,2024-07-26,Ghana,Groceries,43.4,1.12,Card,No,Palace Mall,Standard
+TXN-00376,2024-06-18,Ghana,Entertainment,86.96,2.01,QR Code,No,Vodafone Ghana,Premium
+TXN-00377,2024-12-12,South Africa,Entertainment,34.89,0.84,Card,No,Steers,Premium
+TXN-00378,2024-10-04,Kenya,Transfers,1807.94,4.1,Card,No,Java House,Standard
+TXN-00379,2024-10-02,South Africa,Travel,3372.2,71.74,Card,Yes,FlySafair,Premium
+TXN-00380,2024-12-13,Kenya,Entertainment,20.21,0.49,Mobile Money,No,Equity Bank,Standard
+TXN-00381,2024-02-15,Nigeria,Utilities,96.75,1.74,Card,No,CMS Hospital,Standard
+TXN-00382,2024-11-16,South Africa,Entertainment,124.92,2.42,Card,No,Takealot,Business
+TXN-00383,2024-08-11,Nigeria,Food & Dining,193.39,4.66,Mobile Money,No,Air Peace,Business
+TXN-00384,2024-07-05,Kenya,Utilities,191.5,4.74,Mobile Money,No,DStv Kenya,Business
+TXN-00385,2024-09-07,Kenya,Transfers,8296.64,10.5,Card,No,Quickmart,Premium
+TXN-00386,2024-07-23,Ghana,Transfers,5093.35,11.03,QR Code,No,Maxmart,Premium
+TXN-00387,2024-05-28,Nigeria,Groceries,50.66,0.93,Mobile Money,No,GTBank,Standard
+TXN-00388,2024-12-22,Nigeria,Entertainment,31.85,0.77,Mobile Money,No,Slot,Premium
+TXN-00389,2024-09-22,South Africa,Health,417.28,8.3,Card,No,Eskom,Premium
+TXN-00390,2024-09-02,South Africa,Food & Dining,205.22,4.21,Card,No,Eskom,Business
+TXN-00391,2024-03-28,South Africa,Health,658.93,15.58,Card,No,Checkers,Premium
+TXN-00392,2024-10-07,South Africa,Health,87.42,2.05,Mobile Money,No,Checkers,Standard
+TXN-00393,2024-02-02,Nigeria,Utilities,62.56,1.25,Mobile Money,No,GTBank,Standard
+TXN-00394,2024-01-11,Ghana,Entertainment,77.06,1.57,Card,No,KFC Ghana,Premium
+TXN-00395,2024-10-11,Ghana,Health,318.78,6.14,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00396,2024-04-07,Ghana,Food & Dining,57.27,1.31,Mobile Money,No,Melcom,Standard
+TXN-00397,2024-02-12,Nigeria,Health,458.58,11.77,Card,No,Slot,Premium
+TXN-00398,2024-06-18,South Africa,Groceries,94.3,2.09,Card,No,Eskom,Standard
+TXN-00399,2024-12-07,Nigeria,Groceries,116.82,2.83,Card,No,EKEDC,Standard
+TXN-00400,2024-09-25,Kenya,Transfers,1909.8,5.08,QR Code,No,KQ Airways,Premium
+TXN-00401,2024-09-03,South Africa,Groceries,45.15,0.84,Mobile Money,No,Checkers,Standard
+TXN-00402,2024-02-27,Nigeria,Electronics,522.66,11.22,Mobile Money,No,Jumia,Standard
+TXN-00403,2024-01-24,Ghana,Entertainment,36.54,0.68,QR Code,No,Korle Bu Hospital,Standard
+TXN-00404,2024-08-10,South Africa,Food & Dining,41.34,0.9,Card,No,DSTV SA,Standard
+TXN-00405,2024-11-28,Ghana,Health,277.37,7.02,Card,No,MultiChoice Ghana,Standard
+TXN-00406,2024-12-01,Ghana,Utilities,10.45,0.24,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00407,2024-04-24,South Africa,Food & Dining,40.53,0.9,Mobile Money,No,Eskom,Standard
+TXN-00408,2024-03-06,Ghana,Utilities,77.59,2.01,Mobile Money,No,KFC Ghana,Standard
+TXN-00409,2024-05-03,Nigeria,Electronics,763.65,15.93,Card,No,Air Peace,Standard
+TXN-00410,2024-09-07,Nigeria,Travel,1458.86,33.08,Card,No,Chicken Republic,Premium
+TXN-00411,2024-12-06,Kenya,Electronics,604.86,13.0,Card,No,Java House,Standard
+TXN-00412,2024-11-15,Nigeria,Entertainment,9.9,0.23,Mobile Money,No,GTBank,Standard
+TXN-00413,2024-12-07,Nigeria,Health,48.65,0.88,Card,No,Dangote Store,Standard
+TXN-00414,2024-08-25,Ghana,Health,226.52,5.89,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00415,2024-06-25,Ghana,Entertainment,27.55,0.52,Mobile Money,Yes,Africa World Airlines,Standard
+TXN-00416,2024-11-26,South Africa,Transfers,1327.81,1.75,Card,No,Pick n Pay,Premium
+TXN-00417,2024-10-16,South Africa,Groceries,59.28,1.19,Mobile Money,No,Checkers,Premium
+TXN-00418,2024-12-12,Nigeria,Health,103.87,2.41,Mobile Money,No,Air Peace,Business
+TXN-00419,2024-11-09,Ghana,Utilities,44.07,1.0,QR Code,No,Korle Bu Hospital,Standard
+TXN-00420,2024-06-08,Nigeria,Food & Dining,56.43,1.23,Card,No,GTBank,Premium
+TXN-00421,2024-07-08,Kenya,Transfers,975.18,1.68,Card,Yes,KPLC,Standard
+TXN-00422,2024-06-11,South Africa,Travel,589.9,11.38,Card,Yes,Woolworths,Standard
+TXN-00423,2024-02-19,Kenya,Utilities,61.5,1.13,Mobile Money,No,KQ Airways,Standard
+TXN-00424,2024-08-19,Ghana,Health,596.7,15.26,Mobile Money,No,Vodafone Ghana,Premium
+TXN-00425,2024-11-06,Kenya,Food & Dining,37.05,0.89,Mobile Money,No,Quickmart,Standard
+TXN-00426,2024-10-11,South Africa,Utilities,44.04,0.84,Mobile Money,No,Checkers,Standard
+TXN-00427,2024-09-27,Kenya,Groceries,76.85,1.41,Card,No,Carrefour Kenya,Standard
+TXN-00428,2024-02-22,Kenya,Utilities,163.0,3.94,Mobile Money,No,Java House,Premium
+TXN-00429,2024-11-23,Ghana,Electronics,1152.74,24.27,Mobile Money,No,Accra Mall,Premium
+TXN-00430,2024-02-05,Nigeria,Entertainment,26.12,0.6,Card,No,Shoprite Nigeria,Business
+TXN-00431,2024-10-26,Kenya,Utilities,43.75,0.86,Card,No,Carrefour Kenya,Standard
+TXN-00432,2024-03-21,Ghana,Electronics,473.5,10.84,QR Code,No,Africa World Airlines,Standard
+TXN-00433,2024-06-26,Ghana,Groceries,62.18,1.61,Mobile Money,No,Palace Mall,Standard
+TXN-00434,2024-10-28,South Africa,Groceries,95.71,2.45,Mobile Money,No,Steers,Standard
+TXN-00435,2024-11-20,Ghana,Transfers,4824.62,4.88,Mobile Money,Yes,Accra Mall,Standard
+TXN-00436,2024-06-03,Nigeria,Food & Dining,80.31,2.04,Mobile Money,No,Air Peace,Premium
+TXN-00437,2024-10-20,Kenya,Entertainment,27.25,0.49,QR Code,No,DStv Kenya,Standard
+TXN-00438,2024-05-02,South Africa,Travel,2814.53,65.84,Card,No,Pick n Pay,Premium
+TXN-00439,2024-02-09,South Africa,Food & Dining,37.23,0.82,Card,No,FlySafair,Standard
+TXN-00440,2024-08-24,South Africa,Health,386.05,7.8,Card,No,DSTV SA,Standard
+TXN-00441,2024-08-09,Kenya,Travel,1297.67,26.89,Mobile Money,No,Safaricom,Standard
+TXN-00442,2024-11-27,South Africa,Electronics,332.81,7.28,Mobile Money,No,Cape Union Mart,Standard
+TXN-00443,2024-09-19,South Africa,Travel,1006.07,24.46,Mobile Money,No,Steers,Standard
+TXN-00444,2024-06-12,Nigeria,Groceries,62.64,1.17,Card,No,Slot,Premium
+TXN-00445,2024-08-06,Nigeria,Food & Dining,65.64,1.68,Card,No,Netflix Nigeria,Business
+TXN-00446,2024-10-08,South Africa,Health,97.05,1.94,Card,No,FlySafair,Standard
+TXN-00447,2024-02-03,Ghana,Transfers,6895.88,14.36,Mobile Money,No,Accra Mall,Premium
+TXN-00448,2024-05-19,South Africa,Travel,8031.86,162.58,Mobile Money,No,Woolworths,Business
+TXN-00449,2024-07-14,Nigeria,Utilities,45.43,1.07,Mobile Money,No,Jumia,Standard
+TXN-00450,2024-07-23,Kenya,Transfers,548.7,0.95,QR Code,No,Safaricom,Standard
+TXN-00451,2024-04-16,South Africa,Food & Dining,28.32,0.6,Card,No,DSTV SA,Standard
+TXN-00452,2024-04-06,Ghana,Health,591.79,14.06,Card,No,Palace Mall,Premium
+TXN-00453,2024-03-26,South Africa,Groceries,48.03,1.06,QR Code,No,Checkers,Premium
+TXN-00454,2024-08-11,South Africa,Food & Dining,36.23,0.77,Card,No,Eskom,Standard
+TXN-00455,2024-07-21,Kenya,Entertainment,21.21,0.48,Card,No,KQ Airways,Standard
+TXN-00456,2024-02-28,Ghana,Utilities,68.49,1.53,QR Code,No,MultiChoice Ghana,Standard
+TXN-00457,2024-09-16,South Africa,Travel,1565.07,33.98,QR Code,No,Steers,Standard
+TXN-00458,2024-06-20,Ghana,Entertainment,12.29,0.24,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00459,2024-08-13,Nigeria,Travel,1710.66,38.82,QR Code,No,GTBank,Premium
+TXN-00460,2024-11-05,South Africa,Transfers,12299.61,14.27,Mobile Money,Yes,FlySafair,Business
+TXN-00461,2024-12-16,Ghana,Groceries,93.68,1.75,Mobile Money,No,Palace Mall,Standard
+TXN-00462,2024-05-08,South Africa,Travel,1354.72,26.23,Mobile Money,No,Steers,Standard
+TXN-00463,2024-11-15,South Africa,Utilities,50.04,1.29,Card,No,Takealot,Standard
+TXN-00464,2024-07-24,Ghana,Utilities,67.56,1.38,Mobile Money,No,KFC Ghana,Standard
+TXN-00465,2024-07-12,Nigeria,Groceries,66.61,1.6,Mobile Money,No,Jumia,Standard
+TXN-00466,2024-01-16,South Africa,Travel,1121.65,22.82,Mobile Money,Yes,Steers,Standard
+TXN-00467,2024-03-18,Nigeria,Electronics,956.78,23.56,Mobile Money,No,EKEDC,Premium
+TXN-00468,2024-07-26,South Africa,Entertainment,30.99,0.74,Card,No,FlySafair,Premium
+TXN-00469,2024-03-10,Kenya,Travel,1775.14,38.94,Mobile Money,Yes,DStv Kenya,Standard
+TXN-00470,2024-01-04,Nigeria,Groceries,8.92,0.17,Mobile Money,No,CMS Hospital,Standard
+TXN-00471,2024-05-26,Nigeria,Food & Dining,10.69,0.2,Card,No,Air Peace,Premium
+TXN-00472,2024-10-03,Ghana,Electronics,793.96,16.71,Mobile Money,No,Africa World Airlines,Business
+TXN-00473,2024-06-15,Nigeria,Health,299.42,5.61,Card,No,CMS Hospital,Standard
+TXN-00474,2024-09-10,South Africa,Groceries,163.92,3.67,Mobile Money,No,Eskom,Premium
+TXN-00475,2024-03-02,South Africa,Electronics,524.68,10.81,Mobile Money,No,FlySafair,Standard
+TXN-00476,2024-06-08,Kenya,Groceries,108.96,2.48,Mobile Money,No,Quickmart,Premium
+TXN-00477,2024-07-22,Ghana,Health,893.93,16.52,Card,No,KFC Ghana,Business
+TXN-00478,2024-02-08,Nigeria,Utilities,72.31,1.82,Card,No,CMS Hospital,Premium
+TXN-00479,2024-05-05,Nigeria,Groceries,126.04,2.82,Mobile Money,No,Jumia,Premium
+TXN-00480,2024-05-24,Nigeria,Health,347.01,6.69,Card,No,Air Peace,Standard
+TXN-00481,2024-08-15,Kenya,Utilities,26.7,0.48,QR Code,No,KPLC,Standard
+TXN-00482,2024-05-03,Ghana,Utilities,57.17,1.26,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00483,2024-06-11,Kenya,Utilities,85.17,1.62,QR Code,No,Nairobi Hospital,Standard
+TXN-00484,2024-03-02,Ghana,Entertainment,50.88,1.2,Mobile Money,No,Accra Mall,Premium
+TXN-00485,2024-10-01,South Africa,Electronics,717.33,13.37,Card,No,Checkers,Standard
+TXN-00486,2024-10-14,South Africa,Entertainment,32.76,0.73,Card,No,FlySafair,Standard
+TXN-00487,2024-12-17,Kenya,Entertainment,13.53,0.3,Mobile Money,No,Quickmart,Standard
+TXN-00488,2024-08-18,Nigeria,Groceries,85.02,1.84,Card,No,GTBank,Premium
+TXN-00489,2024-11-18,Nigeria,Food & Dining,59.91,1.29,Mobile Money,No,Chicken Republic,Standard
+TXN-00490,2024-11-14,South Africa,Food & Dining,68.65,1.54,Mobile Money,No,Eskom,Premium
+TXN-00491,2024-06-15,Nigeria,Food & Dining,106.29,2.42,Card,No,Air Peace,Premium
+TXN-00492,2024-01-08,Kenya,Food & Dining,102.31,2.51,QR Code,No,Equity Bank,Premium
+TXN-00493,2024-12-05,Kenya,Travel,721.27,18.12,Mobile Money,No,Safaricom,Standard
+TXN-00494,2024-02-13,Ghana,Electronics,293.52,6.42,Mobile Money,No,Accra Mall,Standard
+TXN-00495,2024-11-04,Ghana,Food & Dining,65.42,1.22,Mobile Money,No,MultiChoice Ghana,Premium
+TXN-00496,2024-11-14,Nigeria,Health,186.44,4.33,Card,Yes,CMS Hospital,Premium
+TXN-00497,2024-01-17,Kenya,Utilities,55.22,1.09,Mobile Money,No,KQ Airways,Standard
+TXN-00498,2024-12-25,Ghana,Travel,781.27,16.53,Mobile Money,No,Accra Mall,Standard
+TXN-00499,2024-10-18,Nigeria,Groceries,94.67,1.8,Mobile Money,No,Netflix Nigeria,Standard
+TXN-00500,2024-06-19,Kenya,Utilities,55.63,1.03,Card,No,Equity Bank,Premium
+TXN-00501,2024-02-22,Nigeria,Food & Dining,23.95,0.56,Card,No,Chicken Republic,Standard
+TXN-00502,2024-09-26,Nigeria,Groceries,99.64,1.95,Mobile Money,No,Slot,Standard
+TXN-00503,2024-02-02,Nigeria,Utilities,84.92,1.72,Mobile Money,No,Air Peace,Standard
+TXN-00504,2024-07-01,Nigeria,Entertainment,29.59,0.71,Card,No,GTBank,Standard
+TXN-00505,2024-09-22,Kenya,Utilities,22.17,0.43,Mobile Money,No,Equity Bank,Premium
+TXN-00506,2024-04-15,Ghana,Groceries,38.39,0.95,Card,No,Melcom,Standard
+TXN-00507,2024-05-21,Nigeria,Health,289.68,7.31,Mobile Money,No,Slot,Standard
+TXN-00508,2024-03-17,South Africa,Utilities,21.56,0.55,Card,No,Pick n Pay,Premium
+TXN-00509,2024-01-22,Nigeria,Utilities,98.04,2.16,Card,No,CMS Hospital,Standard
+TXN-00510,2024-12-27,South Africa,Health,354.54,7.35,Card,No,DSTV SA,Business
+TXN-00511,2024-07-22,Ghana,Utilities,31.63,0.61,QR Code,No,MultiChoice Ghana,Standard
+TXN-00512,2024-07-05,Kenya,Groceries,97.61,2.43,Mobile Money,No,DStv Kenya,Standard
+TXN-00513,2024-12-14,South Africa,Health,374.55,9.49,Card,No,FlySafair,Standard
+TXN-00514,2024-03-27,South Africa,Entertainment,80.11,1.71,Card,No,Eskom,Premium
+TXN-00515,2024-03-07,Kenya,Electronics,910.35,18.33,Mobile Money,No,KPLC,Premium
+TXN-00516,2024-04-01,Nigeria,Transfers,2536.51,5.6,Card,Yes,CMS Hospital,Standard
+TXN-00517,2024-07-05,Kenya,Electronics,776.61,19.73,QR Code,No,KPLC,Standard
+TXN-00518,2024-10-03,Kenya,Health,254.48,5.98,QR Code,No,KQ Airways,Standard
+TXN-00519,2024-06-02,Ghana,Entertainment,40.02,1.02,Mobile Money,No,Melcom,Premium
+TXN-00520,2024-07-15,Nigeria,Health,199.55,4.45,QR Code,No,CMS Hospital,Premium
+TXN-00521,2024-07-21,South Africa,Electronics,713.3,17.25,Card,No,Eskom,Standard
+TXN-00522,2024-09-02,Ghana,Health,265.52,4.97,Mobile Money,No,Accra Mall,Standard
+TXN-00523,2024-12-23,Ghana,Food & Dining,6.37,0.14,QR Code,No,Vodafone Ghana,Standard
+TXN-00524,2024-02-11,Ghana,Health,525.68,9.98,Mobile Money,No,MultiChoice Ghana,Premium
+TXN-00525,2024-02-23,Nigeria,Entertainment,47.74,1.0,Mobile Money,No,Chicken Republic,Standard
+TXN-00526,2024-08-22,South Africa,Groceries,94.15,1.73,Card,No,Cape Union Mart,Standard
+TXN-00527,2024-05-06,Kenya,Groceries,77.73,1.56,Mobile Money,No,DStv Kenya,Standard
+TXN-00528,2024-11-20,South Africa,Electronics,406.78,8.66,Mobile Money,No,Netcare,Standard
+TXN-00529,2024-11-09,Ghana,Utilities,23.07,0.44,Card,No,Melcom,Premium
+TXN-00530,2024-09-27,Ghana,Food & Dining,10.99,0.29,Mobile Money,No,Accra Mall,Standard
+TXN-00531,2024-08-18,Kenya,Travel,2334.18,43.75,Mobile Money,No,KQ Airways,Standard
+TXN-00532,2024-11-25,Nigeria,Utilities,22.11,0.52,Mobile Money,No,Jumia,Standard
+TXN-00533,2024-04-07,Ghana,Groceries,140.31,3.63,Mobile Money,No,Korle Bu Hospital,Premium
+TXN-00534,2024-06-28,Nigeria,Utilities,140.0,2.67,Card,No,Netflix Nigeria,Business
+TXN-00535,2024-07-06,South Africa,Electronics,195.17,3.7,Card,No,Netcare,Standard
+TXN-00536,2024-11-14,Nigeria,Food & Dining,40.06,0.72,Mobile Money,No,Slot,Standard
+TXN-00537,2024-05-17,Ghana,Entertainment,20.0,0.42,Mobile Money,No,ECG Ghana,Standard
+TXN-00538,2024-03-27,Nigeria,Transfers,13977.29,32.03,Mobile Money,No,Jumia,Business
+TXN-00539,2024-12-15,South Africa,Food & Dining,91.43,1.86,Card,No,Checkers,Premium
+TXN-00540,2024-01-19,Ghana,Entertainment,69.96,1.8,Mobile Money,No,Palace Mall,Business
+TXN-00541,2024-09-27,Kenya,Utilities,20.52,0.5,Mobile Money,No,Naivas,Standard
+TXN-00542,2024-04-03,Nigeria,Electronics,763.05,15.05,Mobile Money,No,Shoprite Nigeria,Standard
+TXN-00543,2024-10-03,Nigeria,Groceries,64.01,1.25,QR Code,No,Jumia,Standard
+TXN-00544,2024-05-11,Kenya,Health,677.24,15.86,Mobile Money,No,Nairobi Hospital,Premium
+TXN-00545,2024-06-28,Ghana,Groceries,294.82,6.71,Mobile Money,No,Melcom,Business
+TXN-00546,2024-02-25,Ghana,Food & Dining,22.17,0.56,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00547,2024-08-25,Nigeria,Groceries,38.65,0.7,Card,No,EKEDC,Standard
+TXN-00548,2024-08-18,Nigeria,Groceries,69.79,1.39,Mobile Money,No,Chicken Republic,Premium
+TXN-00549,2024-08-02,Kenya,Travel,583.96,10.76,Mobile Money,No,Equity Bank,Premium
+TXN-00550,2024-12-21,South Africa,Transfers,2863.53,7.55,Card,No,Checkers,Premium
+TXN-00551,2024-02-25,South Africa,Utilities,82.21,1.94,Mobile Money,No,Cape Union Mart,Standard
+TXN-00552,2024-07-08,Kenya,Health,158.11,3.08,QR Code,No,Java House,Standard
+TXN-00553,2024-07-01,Kenya,Groceries,102.73,2.08,Mobile Money,No,DStv Kenya,Standard
+TXN-00554,2024-02-27,Ghana,Groceries,15.94,0.33,Mobile Money,No,Africa World Airlines,Standard
+TXN-00555,2024-09-18,Kenya,Travel,583.94,13.75,Mobile Money,No,Equity Bank,Standard
+TXN-00556,2024-10-18,Ghana,Groceries,162.83,3.86,Card,No,Accra Mall,Premium
+TXN-00557,2024-07-18,Kenya,Travel,1062.02,24.2,Card,No,KQ Airways,Standard
+TXN-00558,2024-05-21,Ghana,Groceries,193.0,4.87,Card,Yes,ECG Ghana,Premium
+TXN-00559,2024-09-15,Ghana,Food & Dining,15.76,0.37,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00560,2024-12-14,Ghana,Health,836.68,19.15,Mobile Money,No,Korle Bu Hospital,Business
+TXN-00561,2024-01-18,South Africa,Groceries,117.61,2.22,Card,No,DSTV SA,Standard
+TXN-00562,2024-10-13,Ghana,Transfers,2204.19,3.14,Mobile Money,Yes,Maxmart,Standard
+TXN-00563,2024-06-12,South Africa,Groceries,288.03,5.49,Mobile Money,No,Cape Union Mart,Business
+TXN-00564,2024-09-05,Kenya,Transfers,2307.34,5.95,Mobile Money,No,Quickmart,Standard
+TXN-00565,2024-07-14,Ghana,Travel,529.61,12.09,Mobile Money,No,Africa World Airlines,Standard
+TXN-00566,2024-10-09,Nigeria,Utilities,98.04,2.21,Card,No,Netflix Nigeria,Standard
+TXN-00567,2024-12-03,Kenya,Entertainment,172.35,4.18,Mobile Money,No,Equity Bank,Business
+TXN-00568,2024-02-16,Ghana,Transfers,6180.36,12.85,Mobile Money,No,MultiChoice Ghana,Premium
+TXN-00569,2024-08-01,Nigeria,Travel,1855.83,39.66,QR Code,No,Air Peace,Standard
+TXN-00570,2024-03-23,South Africa,Entertainment,54.01,1.0,Card,No,Woolworths,Premium
+TXN-00571,2024-09-10,South Africa,Utilities,17.43,0.38,Card,No,Pick n Pay,Standard
+TXN-00572,2024-09-09,South Africa,Groceries,27.56,0.63,Mobile Money,No,Pick n Pay,Standard
+TXN-00573,2024-04-23,Nigeria,Electronics,74.82,1.94,QR Code,No,GTBank,Standard
+TXN-00574,2024-11-25,South Africa,Entertainment,24.81,0.57,Mobile Money,No,Steers,Standard
+TXN-00575,2024-01-09,South Africa,Groceries,52.66,1.07,Card,No,Checkers,Standard
+TXN-00576,2024-04-22,Ghana,Travel,2186.07,39.56,QR Code,No,MultiChoice Ghana,Standard
+TXN-00577,2024-12-22,South Africa,Groceries,47.63,1.18,Card,No,Eskom,Standard
+TXN-00578,2024-05-09,South Africa,Electronics,395.83,9.26,Mobile Money,No,Netcare,Standard
+TXN-00579,2024-07-22,Ghana,Groceries,83.35,2.05,Mobile Money,No,KFC Ghana,Standard
+TXN-00580,2024-09-12,Kenya,Food & Dining,6.3,0.12,QR Code,No,KPLC,Standard
+TXN-00581,2024-12-21,Kenya,Health,249.78,5.25,Card,No,Quickmart,Standard
+TXN-00582,2024-12-23,Kenya,Food & Dining,15.11,0.33,QR Code,No,Java House,Premium
+TXN-00583,2024-04-25,Kenya,Entertainment,19.97,0.37,QR Code,No,Nairobi Hospital,Standard
+TXN-00584,2024-02-07,Ghana,Groceries,24.11,0.58,Mobile Money,No,Vodafone Ghana,Standard
+TXN-00585,2024-10-04,Kenya,Groceries,170.56,3.1,Mobile Money,No,Naivas,Premium
+TXN-00586,2024-12-22,Nigeria,Groceries,51.83,0.93,Card,No,Netflix Nigeria,Standard
+TXN-00587,2024-06-28,South Africa,Entertainment,15.16,0.32,Card,No,FlySafair,Standard
+TXN-00588,2024-08-12,Nigeria,Food & Dining,59.84,1.39,Mobile Money,No,Chicken Republic,Standard
+TXN-00589,2024-02-15,South Africa,Food & Dining,35.5,0.91,Card,No,DSTV SA,Standard
+TXN-00590,2024-12-21,Ghana,Travel,3944.76,76.98,Mobile Money,Yes,Accra Mall,Business
+TXN-00591,2024-04-13,Kenya,Utilities,58.05,1.43,Mobile Money,No,Naivas,Standard
+TXN-00592,2024-05-11,South Africa,Groceries,98.4,2.3,Card,No,Checkers,Standard
+TXN-00593,2024-03-19,Nigeria,Groceries,111.73,2.03,QR Code,No,EKEDC,Premium
+TXN-00594,2024-10-05,Kenya,Utilities,291.74,5.48,Mobile Money,No,Carrefour Kenya,Business
+TXN-00595,2024-11-04,Kenya,Utilities,25.41,0.5,Mobile Money,No,KQ Airways,Premium
+TXN-00596,2024-05-22,Ghana,Groceries,173.79,4.19,Mobile Money,No,KFC Ghana,Premium
+TXN-00597,2024-04-25,Nigeria,Transfers,2221.37,6.33,Mobile Money,Yes,Dangote Store,Standard
+TXN-00598,2024-06-06,Kenya,Travel,514.18,9.62,Card,No,KQ Airways,Standard
+TXN-00599,2024-09-26,South Africa,Transfers,3217.14,6.58,Card,No,Takealot,Standard
+TXN-00600,2024-09-20,Kenya,Travel,5562.49,134.95,Mobile Money,Yes,KPLC,Business
+TXN-00601,2024-03-17,South Africa,Utilities,177.82,3.92,Card,No,Netcare,Premium
+TXN-00602,2024-04-07,Kenya,Groceries,197.94,4.35,Mobile Money,No,Naivas,Premium
+TXN-00603,2024-09-10,Kenya,Electronics,1289.96,27.9,Mobile Money,Yes,DStv Kenya,Premium
+TXN-00604,2024-03-26,Kenya,Travel,649.43,14.0,Mobile Money,No,Java House,Standard
+TXN-00605,2024-04-04,Nigeria,Groceries,189.46,3.98,Mobile Money,No,Netflix Nigeria,Premium
+TXN-00606,2024-01-14,Kenya,Health,167.19,3.19,Card,No,Safaricom,Standard
+TXN-00607,2024-03-05,Kenya,Utilities,20.0,0.43,Mobile Money,No,KPLC,Standard
+TXN-00608,2024-11-20,Kenya,Entertainment,159.66,3.61,Mobile Money,No,KQ Airways,Business
+TXN-00609,2024-11-16,South Africa,Electronics,397.07,7.19,Card,No,Netcare,Standard
+TXN-00610,2024-05-19,Nigeria,Health,1283.57,32.33,Mobile Money,Yes,Netflix Nigeria,Business
+TXN-00611,2024-10-17,Kenya,Utilities,81.82,2.01,Mobile Money,No,DStv Kenya,Standard
+TXN-00612,2024-10-23,South Africa,Health,132.4,3.07,Mobile Money,No,Eskom,Standard
+TXN-00613,2024-03-15,South Africa,Entertainment,25.47,0.62,Card,No,Steers,Standard
+TXN-00614,2024-09-23,Ghana,Health,359.51,7.43,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00615,2024-09-20,Ghana,Entertainment,14.18,0.36,Card,No,MultiChoice Ghana,Premium
+TXN-00616,2024-11-04,Nigeria,Travel,966.77,22.41,Card,No,EKEDC,Standard
+TXN-00617,2024-03-11,Nigeria,Groceries,113.18,2.56,QR Code,No,EKEDC,Standard
+TXN-00618,2024-05-09,Nigeria,Food & Dining,25.5,0.55,Card,No,Netflix Nigeria,Standard
+TXN-00619,2024-10-22,South Africa,Health,159.9,3.74,Card,No,FlySafair,Standard
+TXN-00620,2024-03-15,Kenya,Food & Dining,57.7,1.07,Mobile Money,No,Quickmart,Standard
+TXN-00621,2024-07-28,Kenya,Health,178.28,4.18,QR Code,No,KQ Airways,Standard
+TXN-00622,2024-07-21,Kenya,Electronics,651.49,16.08,Mobile Money,No,Equity Bank,Standard
+TXN-00623,2024-05-21,South Africa,Travel,2442.13,54.67,Card,No,Eskom,Premium
+TXN-00624,2024-03-09,Nigeria,Food & Dining,51.5,0.99,Mobile Money,No,Dangote Store,Standard
+TXN-00625,2024-12-23,Ghana,Electronics,581.08,14.67,Card,No,KFC Ghana,Standard
+TXN-00626,2024-01-11,Ghana,Travel,576.48,13.64,Card,No,ECG Ghana,Standard
+TXN-00627,2024-06-18,South Africa,Utilities,12.24,0.31,Card,No,Steers,Standard
+TXN-00628,2024-03-24,Ghana,Travel,1414.54,35.6,QR Code,No,Accra Mall,Premium
+TXN-00629,2024-09-26,Ghana,Health,281.88,6.72,QR Code,No,Maxmart,Standard
+TXN-00630,2024-02-01,Nigeria,Entertainment,9.16,0.17,Card,No,EKEDC,Standard
+TXN-00631,2024-10-25,Nigeria,Groceries,57.89,1.35,Mobile Money,No,EKEDC,Standard
+TXN-00632,2024-07-20,Ghana,Health,537.44,10.31,QR Code,No,MultiChoice Ghana,Business
+TXN-00633,2024-01-12,Nigeria,Health,90.44,2.15,Mobile Money,No,Netflix Nigeria,Premium
+TXN-00634,2024-05-26,South Africa,Health,315.79,7.79,Card,No,Eskom,Premium
+TXN-00635,2024-07-28,Ghana,Food & Dining,129.16,2.71,Mobile Money,No,Korle Bu Hospital,Business
+TXN-00636,2024-06-18,Nigeria,Utilities,89.76,2.21,Mobile Money,No,Air Peace,Business
+TXN-00637,2024-11-10,Nigeria,Entertainment,40.6,0.78,Mobile Money,No,Netflix Nigeria,Standard
+TXN-00638,2024-02-22,South Africa,Food & Dining,42.83,0.85,Mobile Money,No,FlySafair,Standard
+TXN-00639,2024-08-12,Ghana,Utilities,118.62,2.59,Card,No,Maxmart,Premium
+TXN-00640,2024-10-01,South Africa,Groceries,43.8,1.1,Mobile Money,No,Eskom,Standard
+TXN-00641,2024-06-21,South Africa,Food & Dining,34.13,0.87,Card,No,Pick n Pay,Standard
+TXN-00642,2024-10-20,South Africa,Utilities,151.43,3.56,Card,No,Steers,Premium
+TXN-00643,2024-02-19,Nigeria,Groceries,39.52,0.96,Mobile Money,No,GTBank,Standard
+TXN-00644,2024-02-05,Nigeria,Entertainment,53.59,1.26,QR Code,No,Jumia,Premium
+TXN-00645,2024-10-26,Kenya,Travel,2061.6,52.34,Mobile Money,No,Java House,Standard
+TXN-00646,2024-03-15,South Africa,Utilities,71.44,1.69,Mobile Money,No,Netcare,Premium
+TXN-00647,2024-02-23,Kenya,Electronics,147.66,2.75,Card,No,Carrefour Kenya,Standard
+TXN-00648,2024-01-16,South Africa,Groceries,96.82,2.14,Mobile Money,No,Eskom,Standard
+TXN-00649,2024-01-10,Ghana,Entertainment,83.41,1.64,QR Code,No,MultiChoice Ghana,Premium
+TXN-00650,2024-01-05,South Africa,Health,519.58,10.02,Card,No,Netcare,Business
+TXN-00651,2024-07-03,Kenya,Utilities,29.53,0.58,Mobile Money,No,DStv Kenya,Standard
+TXN-00652,2024-01-24,Kenya,Electronics,580.82,12.16,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00653,2024-03-12,South Africa,Food & Dining,27.42,0.66,Card,No,Checkers,Standard
+TXN-00654,2024-03-25,Nigeria,Food & Dining,15.77,0.35,Mobile Money,No,Air Peace,Premium
+TXN-00655,2024-09-27,Nigeria,Utilities,86.98,1.7,Mobile Money,No,Netflix Nigeria,Standard
+TXN-00656,2024-12-12,Kenya,Health,59.97,1.29,Card,No,Quickmart,Standard
+TXN-00657,2024-06-23,Ghana,Groceries,411.14,7.61,QR Code,No,Accra Mall,Business
+TXN-00658,2024-11-13,Kenya,Entertainment,30.48,0.72,Mobile Money,No,KQ Airways,Premium
+TXN-00659,2024-05-22,Ghana,Food & Dining,20.34,0.49,Mobile Money,No,Vodafone Ghana,Standard
+TXN-00660,2024-04-05,Kenya,Entertainment,48.6,0.89,Mobile Money,No,Java House,Premium
+TXN-00661,2024-03-20,Ghana,Entertainment,50.4,1.11,Mobile Money,No,Vodafone Ghana,Premium
+TXN-00662,2024-07-09,Ghana,Entertainment,5.8,0.14,QR Code,No,KFC Ghana,Standard
+TXN-00663,2024-06-11,South Africa,Travel,508.02,11.82,Card,No,Pick n Pay,Standard
+TXN-00664,2024-07-05,Nigeria,Food & Dining,64.67,1.42,Card,No,Netflix Nigeria,Premium
+TXN-00665,2024-07-28,Kenya,Groceries,74.2,1.56,Card,No,Safaricom,Standard
+TXN-00666,2024-05-01,Ghana,Groceries,98.67,2.24,Card,No,Palace Mall,Standard
+TXN-00667,2024-02-12,South Africa,Food & Dining,18.43,0.37,Card,No,FlySafair,Standard
+TXN-00668,2024-11-04,Nigeria,Groceries,59.62,1.48,Card,No,Air Peace,Standard
+TXN-00669,2024-01-16,Ghana,Health,168.31,3.8,Card,No,Africa World Airlines,Standard
+TXN-00670,2024-05-17,South Africa,Transfers,1532.63,4.5,Mobile Money,No,FlySafair,Standard
+TXN-00671,2024-11-18,Kenya,Electronics,480.14,11.73,Mobile Money,No,Equity Bank,Standard
+TXN-00672,2024-02-11,Nigeria,Utilities,48.44,1.01,Mobile Money,No,Jumia,Standard
+TXN-00673,2024-11-14,Ghana,Food & Dining,18.82,0.42,Card,No,Melcom,Standard
+TXN-00674,2024-09-17,South Africa,Utilities,96.59,2.31,Card,No,Checkers,Standard
+TXN-00675,2024-11-28,South Africa,Food & Dining,39.47,0.88,Card,No,Pick n Pay,Standard
+TXN-00676,2024-10-25,Nigeria,Food & Dining,50.66,0.94,Mobile Money,No,Air Peace,Standard
+TXN-00677,2024-09-09,Ghana,Electronics,162.47,2.96,Card,No,Vodafone Ghana,Standard
+TXN-00678,2024-08-14,Nigeria,Health,123.63,2.25,Card,No,Jumia,Standard
+TXN-00679,2024-03-28,Kenya,Entertainment,12.06,0.3,Mobile Money,No,Carrefour Kenya,Premium
+TXN-00680,2024-12-14,South Africa,Transfers,7021.05,18.81,Card,Yes,Takealot,Business
+TXN-00681,2024-10-04,Ghana,Entertainment,163.88,3.28,QR Code,No,KFC Ghana,Business
+TXN-00682,2024-10-11,Nigeria,Utilities,77.35,1.54,Mobile Money,No,GTBank,Standard
+TXN-00683,2024-04-09,Nigeria,Electronics,417.77,8.77,QR Code,No,CMS Hospital,Standard
+TXN-00684,2024-07-08,South Africa,Health,540.05,12.81,Card,No,Takealot,Business
+TXN-00685,2024-01-24,Ghana,Health,574.27,11.44,Mobile Money,No,MultiChoice Ghana,Premium
+TXN-00686,2024-12-22,Kenya,Health,298.05,7.53,Mobile Money,No,Safaricom,Premium
+TXN-00687,2024-05-27,South Africa,Food & Dining,23.6,0.51,Card,No,DSTV SA,Premium
+TXN-00688,2024-10-09,South Africa,Entertainment,89.05,1.9,Card,No,FlySafair,Business
+TXN-00689,2024-11-23,Nigeria,Groceries,89.67,2.01,Mobile Money,No,Shoprite Nigeria,Standard
+TXN-00690,2024-09-06,Ghana,Entertainment,23.03,0.53,Mobile Money,No,ECG Ghana,Standard
+TXN-00691,2024-04-23,South Africa,Entertainment,77.37,1.82,Card,No,Cape Union Mart,Premium
+TXN-00692,2024-11-05,Nigeria,Transfers,7210.79,10.08,Mobile Money,Yes,CMS Hospital,Premium
+TXN-00693,2024-12-19,Nigeria,Health,923.59,21.25,QR Code,No,EKEDC,Business
+TXN-00694,2024-04-28,Kenya,Food & Dining,19.31,0.36,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00695,2024-01-17,Nigeria,Health,275.97,5.23,Card,No,Air Peace,Standard
+TXN-00696,2024-05-16,Nigeria,Food & Dining,16.86,0.41,Card,No,GTBank,Standard
+TXN-00697,2024-06-05,Kenya,Health,191.37,3.82,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00698,2024-01-05,South Africa,Health,100.64,2.12,Card,No,FlySafair,Standard
+TXN-00699,2024-02-02,Kenya,Health,154.63,3.53,Card,No,Naivas,Standard
+TXN-00700,2024-01-17,Ghana,Food & Dining,25.4,0.65,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00701,2024-03-16,South Africa,Health,140.58,3.13,Mobile Money,No,Woolworths,Standard
+TXN-00702,2024-12-16,South Africa,Entertainment,83.91,1.7,Card,No,Eskom,Premium
+TXN-00703,2024-07-14,South Africa,Food & Dining,163.33,3.14,Card,No,Cape Union Mart,Business
+TXN-00704,2024-01-05,Kenya,Electronics,172.67,3.75,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00705,2024-01-12,South Africa,Utilities,20.12,0.48,Mobile Money,No,Netcare,Standard
+TXN-00706,2024-11-06,South Africa,Entertainment,53.97,1.26,Mobile Money,No,Woolworths,Premium
+TXN-00707,2024-08-19,Kenya,Health,209.28,3.92,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00708,2024-06-19,South Africa,Groceries,11.23,0.24,Card,No,Eskom,Standard
+TXN-00709,2024-08-01,Nigeria,Groceries,104.43,2.67,QR Code,No,Dangote Store,Premium
+TXN-00710,2024-02-28,Kenya,Transfers,324.9,0.5,QR Code,No,KQ Airways,Standard
+TXN-00711,2024-04-08,South Africa,Health,343.89,6.64,Card,No,Pick n Pay,Standard
+TXN-00712,2024-02-16,South Africa,Entertainment,159.36,3.64,Card,No,Steers,Business
+TXN-00713,2024-07-16,Nigeria,Food & Dining,38.02,0.71,Mobile Money,No,GTBank,Standard
+TXN-00714,2024-06-14,Kenya,Travel,5983.56,138.7,Card,No,DStv Kenya,Business
+TXN-00715,2024-09-17,Kenya,Travel,2019.74,41.21,QR Code,No,Safaricom,Standard
+TXN-00716,2024-11-17,Nigeria,Utilities,92.56,2.05,Card,No,Netflix Nigeria,Standard
+TXN-00717,2024-09-19,South Africa,Food & Dining,47.28,0.86,Card,No,Pick n Pay,Standard
+TXN-00718,2024-11-02,Kenya,Health,243.14,5.26,Card,No,Safaricom,Standard
+TXN-00719,2024-05-28,South Africa,Electronics,786.64,15.79,Card,No,Woolworths,Standard
+TXN-00720,2024-01-04,Kenya,Transfers,2055.2,4.76,Card,No,Safaricom,Standard
+TXN-00721,2024-09-20,Nigeria,Transfers,3600.35,5.78,Mobile Money,Yes,Slot,Premium
+TXN-00722,2024-11-23,South Africa,Entertainment,34.19,0.79,Card,No,Checkers,Standard
+TXN-00723,2024-03-10,South Africa,Groceries,21.04,0.53,Card,No,Cape Union Mart,Standard
+TXN-00724,2024-07-28,Nigeria,Electronics,672.09,14.2,Mobile Money,No,CMS Hospital,Standard
+TXN-00725,2024-12-28,Nigeria,Utilities,179.84,3.29,Mobile Money,No,Dangote Store,Premium
+TXN-00726,2024-12-27,South Africa,Electronics,64.26,1.45,Card,No,DSTV SA,Standard
+TXN-00727,2024-12-04,Nigeria,Health,285.06,5.18,Mobile Money,No,Chicken Republic,Standard
+TXN-00728,2024-06-17,Kenya,Health,248.8,6.16,Card,No,Safaricom,Standard
+TXN-00729,2024-10-13,South Africa,Entertainment,68.1,1.66,Card,No,Takealot,Premium
+TXN-00730,2024-04-23,South Africa,Transfers,1037.45,2.29,Mobile Money,No,Cape Union Mart,Standard
+TXN-00731,2024-05-07,Ghana,Health,119.11,2.79,Mobile Money,No,Maxmart,Standard
+TXN-00732,2024-01-03,Nigeria,Groceries,70.94,1.55,QR Code,No,Shoprite Nigeria,Standard
+TXN-00733,2024-10-18,Nigeria,Groceries,117.14,2.74,Card,No,Netflix Nigeria,Premium
+TXN-00734,2024-11-27,South Africa,Health,450.66,11.21,Mobile Money,No,Checkers,Premium
+TXN-00735,2024-02-21,Kenya,Electronics,596.26,14.11,Card,No,Carrefour Kenya,Standard
+TXN-00736,2024-03-12,Nigeria,Groceries,101.58,2.17,Card,No,Netflix Nigeria,Premium
+TXN-00737,2024-05-17,Kenya,Electronics,641.49,14.78,Mobile Money,No,DStv Kenya,Premium
+TXN-00738,2024-06-08,Kenya,Food & Dining,189.87,4.86,Mobile Money,No,Naivas,Business
+TXN-00739,2024-07-25,Kenya,Entertainment,26.28,0.54,QR Code,No,Naivas,Business
+TXN-00740,2024-06-02,Ghana,Transfers,1129.45,2.56,Card,No,Maxmart,Business
+TXN-00741,2024-12-14,Nigeria,Transfers,1556.4,3.87,QR Code,Yes,Air Peace,Standard
+TXN-00742,2024-12-20,South Africa,Transfers,1065.41,2.23,Card,No,Steers,Standard
+TXN-00743,2024-11-26,Ghana,Entertainment,26.2,0.58,Mobile Money,No,ECG Ghana,Business
+TXN-00744,2024-07-18,Nigeria,Groceries,66.39,1.6,Mobile Money,No,Jumia,Standard
+TXN-00745,2024-08-08,South Africa,Food & Dining,32.79,0.78,Card,No,Checkers,Standard
+TXN-00746,2024-05-02,South Africa,Health,237.53,4.29,Card,No,Takealot,Standard
+TXN-00747,2024-08-21,Ghana,Entertainment,18.46,0.43,Card,No,ECG Ghana,Standard
+TXN-00748,2024-10-17,South Africa,Groceries,29.57,0.72,Card,No,DSTV SA,Standard
+TXN-00749,2024-11-03,Kenya,Food & Dining,16.81,0.31,Card,No,DStv Kenya,Standard
+TXN-00750,2024-07-13,South Africa,Utilities,179.42,4.22,QR Code,No,DSTV SA,Premium
+TXN-00751,2024-11-05,Nigeria,Travel,2422.64,53.55,Card,No,Netflix Nigeria,Standard
+TXN-00752,2024-07-24,Kenya,Utilities,63.6,1.58,Mobile Money,No,Safaricom,Business
+TXN-00753,2024-01-05,Kenya,Food & Dining,21.17,0.39,Mobile Money,No,KQ Airways,Standard
+TXN-00754,2024-01-10,South Africa,Electronics,742.2,14.09,Card,No,DSTV SA,Premium
+TXN-00755,2024-07-10,Ghana,Health,357.91,8.5,Card,No,Maxmart,Premium
+TXN-00756,2024-09-25,Nigeria,Travel,1544.45,37.68,Card,No,EKEDC,Premium
+TXN-00757,2024-12-11,Ghana,Health,1043.48,24.17,QR Code,No,Accra Mall,Business
+TXN-00758,2024-09-25,Ghana,Utilities,60.34,1.18,Card,No,Melcom,Standard
+TXN-00759,2024-12-17,Kenya,Travel,1228.42,31.31,Mobile Money,Yes,KPLC,Business
+TXN-00760,2024-04-23,South Africa,Utilities,58.02,1.19,Card,No,Woolworths,Standard
+TXN-00761,2024-05-06,Nigeria,Entertainment,16.57,0.31,Mobile Money,No,GTBank,Standard
+TXN-00762,2024-03-25,Kenya,Food & Dining,14.31,0.33,Mobile Money,No,Naivas,Standard
+TXN-00763,2024-05-04,Nigeria,Food & Dining,25.65,0.63,Mobile Money,No,Dangote Store,Standard
+TXN-00764,2024-08-16,Nigeria,Travel,2502.41,51.42,Card,Yes,Shoprite Nigeria,Business
+TXN-00765,2024-06-08,South Africa,Groceries,73.65,1.39,Card,No,Pick n Pay,Standard
+TXN-00766,2024-05-14,Nigeria,Entertainment,40.23,0.77,Card,No,EKEDC,Standard
+TXN-00767,2024-08-14,South Africa,Utilities,83.14,2.14,Card,No,Pick n Pay,Standard
+TXN-00768,2024-01-16,Nigeria,Electronics,1438.97,35.6,Mobile Money,No,Air Peace,Premium
+TXN-00769,2024-01-24,Ghana,Groceries,86.22,2.12,Card,No,Palace Mall,Standard
+TXN-00770,2024-04-17,South Africa,Food & Dining,41.93,0.84,Card,No,Netcare,Premium
+TXN-00771,2024-09-11,Nigeria,Travel,118.42,2.79,Card,Yes,Netflix Nigeria,Standard
+TXN-00772,2024-01-01,Ghana,Food & Dining,151.4,3.65,Mobile Money,No,KFC Ghana,Business
+TXN-00773,2024-08-27,South Africa,Travel,2432.33,51.11,Card,No,Woolworths,Standard
+TXN-00774,2024-02-12,South Africa,Travel,127.87,2.59,QR Code,No,FlySafair,Standard
+TXN-00775,2024-11-21,Nigeria,Transfers,2494.35,4.31,Mobile Money,No,Dangote Store,Standard
+TXN-00776,2024-04-07,South Africa,Utilities,34.96,0.77,Mobile Money,No,Takealot,Standard
+TXN-00777,2024-09-20,Ghana,Groceries,15.29,0.31,Mobile Money,No,Maxmart,Standard
+TXN-00778,2024-10-09,Kenya,Transfers,12165.63,25.13,Mobile Money,No,Nairobi Hospital,Business
+TXN-00779,2024-01-14,Ghana,Health,376.73,8.08,QR Code,No,Maxmart,Standard
+TXN-00780,2024-07-12,Nigeria,Groceries,21.58,0.55,Card,No,CMS Hospital,Premium
+TXN-00781,2024-03-03,South Africa,Entertainment,49.16,1.16,QR Code,No,Netcare,Business
+TXN-00782,2024-03-10,Kenya,Utilities,48.88,0.89,Card,No,Safaricom,Standard
+TXN-00783,2024-04-16,Nigeria,Food & Dining,23.35,0.57,QR Code,No,Dangote Store,Standard
+TXN-00784,2024-06-04,Ghana,Utilities,15.46,0.28,Mobile Money,No,KFC Ghana,Standard
+TXN-00785,2024-10-02,South Africa,Travel,1595.37,29.56,Card,No,Eskom,Standard
+TXN-00786,2024-11-13,Kenya,Entertainment,31.98,0.74,Mobile Money,No,KQ Airways,Standard
+TXN-00787,2024-11-20,Kenya,Transfers,306.8,0.62,Mobile Money,No,Naivas,Premium
+TXN-00788,2024-08-03,Ghana,Entertainment,32.97,0.73,Mobile Money,No,Accra Mall,Business
+TXN-00789,2024-07-08,Kenya,Groceries,73.47,1.62,Card,No,Equity Bank,Standard
+TXN-00790,2024-11-25,Kenya,Travel,1394.86,35.93,Mobile Money,No,Quickmart,Premium
+TXN-00791,2024-01-17,South Africa,Utilities,40.94,1.06,Card,No,FlySafair,Standard
+TXN-00792,2024-05-22,Nigeria,Transfers,3477.45,9.4,Card,Yes,Air Peace,Standard
+TXN-00793,2024-06-06,Kenya,Health,719.51,18.25,Mobile Money,No,Nairobi Hospital,Business
+TXN-00794,2024-09-08,Nigeria,Entertainment,74.1,1.56,Mobile Money,No,Shoprite Nigeria,Premium
+TXN-00795,2024-06-03,Nigeria,Utilities,49.64,1.14,QR Code,No,Shoprite Nigeria,Standard
+TXN-00796,2024-03-10,Kenya,Health,264.47,5.93,Mobile Money,No,Safaricom,Premium
+TXN-00797,2024-12-01,South Africa,Groceries,192.54,3.99,Mobile Money,No,Steers,Premium
+TXN-00798,2024-11-22,Kenya,Utilities,117.83,2.53,Card,No,Quickmart,Premium
+TXN-00799,2024-11-07,Ghana,Transfers,2176.22,4.94,QR Code,No,Accra Mall,Standard
+TXN-00800,2024-03-18,Nigeria,Groceries,78.5,1.59,Mobile Money,No,Dangote Store,Standard
+TXN-00801,2024-11-07,South Africa,Entertainment,58.23,1.13,Card,No,Checkers,Premium
+TXN-00802,2024-06-17,Nigeria,Food & Dining,43.2,1.02,Mobile Money,No,CMS Hospital,Standard
+TXN-00803,2024-09-26,Ghana,Groceries,30.74,0.77,Mobile Money,No,Palace Mall,Standard
+TXN-00804,2024-08-27,Nigeria,Utilities,17.56,0.38,Mobile Money,No,Netflix Nigeria,Standard
+TXN-00805,2024-07-11,Nigeria,Travel,2026.9,41.62,Mobile Money,Yes,EKEDC,Standard
+TXN-00806,2024-04-03,Nigeria,Groceries,116.61,2.7,Card,No,Slot,Premium
+TXN-00807,2024-02-12,Kenya,Electronics,296.93,6.06,Card,No,Safaricom,Standard
+TXN-00808,2024-03-20,South Africa,Health,540.48,13.67,Mobile Money,No,Steers,Premium
+TXN-00809,2024-10-13,South Africa,Entertainment,8.48,0.2,QR Code,No,DSTV SA,Premium
+TXN-00810,2024-04-24,South Africa,Travel,1982.06,47.69,Card,No,FlySafair,Standard
+TXN-00811,2024-05-07,Nigeria,Health,186.7,4.63,Mobile Money,No,GTBank,Standard
+TXN-00812,2024-05-24,Kenya,Entertainment,35.54,0.76,Card,No,DStv Kenya,Premium
+TXN-00813,2024-05-19,Kenya,Entertainment,37.47,0.96,Mobile Money,No,Equity Bank,Business
+TXN-00814,2024-12-19,South Africa,Health,168.44,3.75,Mobile Money,No,Takealot,Standard
+TXN-00815,2024-12-21,South Africa,Groceries,69.93,1.28,Card,No,Pick n Pay,Standard
+TXN-00816,2024-03-13,Nigeria,Electronics,170.52,3.15,Card,No,CMS Hospital,Premium
+TXN-00817,2024-06-04,Kenya,Food & Dining,46.59,1.18,Mobile Money,No,Safaricom,Premium
+TXN-00818,2024-06-23,Ghana,Groceries,42.76,0.84,Card,No,Africa World Airlines,Standard
+TXN-00819,2024-01-05,Nigeria,Entertainment,27.86,0.57,Card,No,Netflix Nigeria,Premium
+TXN-00820,2024-08-24,Kenya,Transfers,6150.33,16.52,Card,No,Quickmart,Business
+TXN-00821,2024-06-06,South Africa,Entertainment,45.99,0.9,Card,No,Woolworths,Standard
+TXN-00822,2024-04-28,Kenya,Health,273.33,5.07,Card,No,Nairobi Hospital,Standard
+TXN-00823,2024-06-25,Ghana,Health,59.99,1.45,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00824,2024-04-02,Nigeria,Groceries,164.95,3.47,Card,No,CMS Hospital,Premium
+TXN-00825,2024-01-09,Kenya,Health,304.5,6.66,Mobile Money,No,KPLC,Standard
+TXN-00826,2024-10-15,Kenya,Entertainment,21.57,0.39,Mobile Money,No,DStv Kenya,Premium
+TXN-00827,2024-10-06,Kenya,Entertainment,20.16,0.42,Mobile Money,No,DStv Kenya,Premium
+TXN-00828,2024-04-23,Kenya,Utilities,69.63,1.62,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00829,2024-01-01,Kenya,Food & Dining,18.73,0.47,Mobile Money,No,Naivas,Standard
+TXN-00830,2024-12-11,South Africa,Transfers,4795.79,5.72,Card,No,Pick n Pay,Standard
+TXN-00831,2024-01-17,Kenya,Food & Dining,15.43,0.3,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00832,2024-04-04,Nigeria,Groceries,43.42,0.92,Mobile Money,No,Air Peace,Standard
+TXN-00833,2024-09-12,Kenya,Health,311.67,6.86,QR Code,No,Equity Bank,Standard
+TXN-00834,2024-03-04,Ghana,Health,497.75,12.83,Card,No,MultiChoice Ghana,Premium
+TXN-00835,2024-12-22,Nigeria,Food & Dining,66.3,1.4,Card,No,Dangote Store,Premium
+TXN-00836,2024-10-01,Nigeria,Utilities,125.38,3.0,Card,No,Shoprite Nigeria,Business
+TXN-00837,2024-03-16,Nigeria,Groceries,12.25,0.31,Card,No,Chicken Republic,Standard
+TXN-00838,2024-03-11,Ghana,Entertainment,48.99,1.14,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00839,2024-05-07,Ghana,Health,201.35,4.73,Card,No,Palace Mall,Premium
+TXN-00840,2024-07-06,Nigeria,Groceries,26.28,0.51,Card,No,EKEDC,Premium
+TXN-00841,2024-02-06,Ghana,Entertainment,50.9,0.95,Card,No,Africa World Airlines,Business
+TXN-00842,2024-04-06,Ghana,Food & Dining,58.22,1.14,QR Code,No,MultiChoice Ghana,Standard
+TXN-00843,2024-06-06,Nigeria,Food & Dining,51.06,0.98,QR Code,No,CMS Hospital,Premium
+TXN-00844,2024-06-03,South Africa,Health,78.06,1.86,Card,No,Cape Union Mart,Standard
+TXN-00845,2024-05-18,Ghana,Groceries,60.56,1.17,Mobile Money,No,Maxmart,Standard
+TXN-00846,2024-10-12,Nigeria,Health,1360.17,28.54,Mobile Money,No,Dangote Store,Business
+TXN-00847,2024-02-02,South Africa,Groceries,84.94,2.05,QR Code,No,Steers,Business
+TXN-00848,2024-07-16,Ghana,Food & Dining,26.19,0.56,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00849,2024-09-22,Kenya,Transfers,3046.91,8.8,Mobile Money,Yes,Equity Bank,Standard
+TXN-00850,2024-12-27,Kenya,Groceries,87.7,1.85,Card,No,Carrefour Kenya,Standard
+TXN-00851,2024-07-07,South Africa,Groceries,85.49,1.88,Card,No,Takealot,Standard
+TXN-00852,2024-05-14,South Africa,Health,105.4,2.38,Card,No,Eskom,Premium
+TXN-00853,2024-10-24,Nigeria,Food & Dining,173.74,3.13,Mobile Money,No,Jumia,Business
+TXN-00854,2024-06-10,South Africa,Groceries,86.85,1.7,Mobile Money,No,Cape Union Mart,Standard
+TXN-00855,2024-08-07,Kenya,Groceries,93.03,1.87,QR Code,No,Equity Bank,Standard
+TXN-00856,2024-02-21,Kenya,Food & Dining,20.22,0.42,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00857,2024-01-09,South Africa,Groceries,118.61,2.23,Card,Yes,Takealot,Standard
+TXN-00858,2024-07-25,Nigeria,Travel,2767.15,57.26,Card,No,Chicken Republic,Premium
+TXN-00859,2024-11-12,Ghana,Food & Dining,24.58,0.51,Mobile Money,No,Palace Mall,Standard
+TXN-00860,2024-10-05,Kenya,Groceries,114.52,2.75,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00861,2024-07-22,Kenya,Health,1147.04,20.8,Mobile Money,Yes,Java House,Business
+TXN-00862,2024-09-08,Ghana,Food & Dining,15.68,0.34,QR Code,No,KFC Ghana,Premium
+TXN-00863,2024-10-10,Ghana,Transfers,7895.39,20.29,Card,Yes,Vodafone Ghana,Premium
+TXN-00864,2024-11-10,South Africa,Health,680.18,17.12,QR Code,No,Checkers,Business
+TXN-00865,2024-04-07,Kenya,Health,102.77,2.67,Mobile Money,No,Java House,Premium
+TXN-00866,2024-12-25,Nigeria,Transfers,8567.17,20.06,Card,No,Netflix Nigeria,Premium
+TXN-00867,2024-02-23,Nigeria,Electronics,742.89,13.76,Mobile Money,No,CMS Hospital,Standard
+TXN-00868,2024-09-26,Ghana,Entertainment,25.94,0.49,Mobile Money,No,Accra Mall,Premium
+TXN-00869,2024-12-24,South Africa,Utilities,38.2,0.8,Card,No,Takealot,Standard
+TXN-00870,2024-08-28,Nigeria,Food & Dining,87.65,2.23,Mobile Money,No,Dangote Store,Premium
+TXN-00871,2024-04-13,Kenya,Entertainment,41.73,0.85,Mobile Money,No,Quickmart,Standard
+TXN-00872,2024-08-05,South Africa,Entertainment,10.33,0.21,Card,No,Eskom,Premium
+TXN-00873,2024-12-23,Ghana,Utilities,36.23,0.93,Mobile Money,No,ECG Ghana,Standard
+TXN-00874,2024-11-07,South Africa,Health,299.58,7.6,Card,No,DSTV SA,Standard
+TXN-00875,2024-05-27,Ghana,Entertainment,101.54,2.1,Card,No,Palace Mall,Business
+TXN-00876,2024-06-17,South Africa,Food & Dining,150.97,3.38,Mobile Money,No,Takealot,Business
+TXN-00877,2024-11-02,South Africa,Transfers,860.29,1.1,Card,No,Pick n Pay,Standard
+TXN-00878,2024-04-26,South Africa,Entertainment,37.67,0.85,Card,No,Pick n Pay,Standard
+TXN-00879,2024-06-14,Ghana,Groceries,47.83,1.04,QR Code,No,Maxmart,Standard
+TXN-00880,2024-09-19,Nigeria,Groceries,61.98,1.17,Mobile Money,No,Dangote Store,Premium
+TXN-00881,2024-12-21,South Africa,Entertainment,121.49,2.27,Card,No,DSTV SA,Business
+TXN-00882,2024-04-21,Nigeria,Groceries,21.67,0.5,QR Code,No,Dangote Store,Standard
+TXN-00883,2024-08-19,Nigeria,Transfers,2984.75,5.28,QR Code,No,Air Peace,Standard
+TXN-00884,2024-08-04,Nigeria,Transfers,4872.29,8.82,Card,No,Jumia,Premium
+TXN-00885,2024-10-17,Nigeria,Travel,1807.27,43.95,Mobile Money,No,Slot,Standard
+TXN-00886,2024-03-20,Ghana,Groceries,43.2,0.79,Mobile Money,No,KFC Ghana,Standard
+TXN-00887,2024-08-28,South Africa,Groceries,41.44,1.07,Mobile Money,No,Woolworths,Standard
+TXN-00888,2024-04-02,South Africa,Travel,3007.11,64.83,Card,No,Checkers,Premium
+TXN-00889,2024-12-12,Ghana,Travel,3022.26,55.48,Mobile Money,Yes,Africa World Airlines,Premium
+TXN-00890,2024-12-20,Ghana,Utilities,75.62,1.62,Mobile Money,No,ECG Ghana,Standard
+TXN-00891,2024-06-03,South Africa,Transfers,2613.86,3.68,Card,Yes,Netcare,Business
+TXN-00892,2024-10-19,Ghana,Entertainment,42.12,0.81,QR Code,No,Melcom,Premium
+TXN-00893,2024-12-08,Kenya,Groceries,69.42,1.29,Mobile Money,No,Java House,Standard
+TXN-00894,2024-10-05,South Africa,Electronics,332.87,8.57,Card,No,FlySafair,Standard
+TXN-00895,2024-03-24,South Africa,Utilities,30.76,0.64,Card,No,Eskom,Premium
+TXN-00896,2024-08-02,Kenya,Health,151.17,3.62,QR Code,No,Equity Bank,Standard
+TXN-00897,2024-11-13,Nigeria,Groceries,65.52,1.26,Mobile Money,No,Air Peace,Standard
+TXN-00898,2024-01-24,Ghana,Food & Dining,75.66,1.62,Mobile Money,No,MultiChoice Ghana,Premium
+TXN-00899,2024-11-17,Nigeria,Health,293.02,7.44,Mobile Money,No,Slot,Standard
+TXN-00900,2024-12-14,South Africa,Entertainment,13.83,0.28,Mobile Money,No,FlySafair,Premium
+TXN-00901,2024-10-18,South Africa,Entertainment,47.68,1.12,QR Code,No,Cape Union Mart,Standard
+TXN-00902,2024-07-22,South Africa,Transfers,3100.62,8.75,Card,No,Checkers,Standard
+TXN-00903,2024-10-08,South Africa,Transfers,17485.54,50.53,Card,Yes,Cape Union Mart,Business
+TXN-00904,2024-12-22,South Africa,Entertainment,40.91,0.86,Mobile Money,No,Woolworths,Business
+TXN-00905,2024-06-13,Kenya,Health,278.04,6.85,QR Code,No,Safaricom,Standard
+TXN-00906,2024-05-10,Nigeria,Groceries,92.3,2.34,QR Code,No,Jumia,Premium
+TXN-00907,2024-11-02,South Africa,Health,69.67,1.26,Card,No,FlySafair,Premium
+TXN-00908,2024-01-24,Kenya,Food & Dining,32.06,0.6,Mobile Money,No,Carrefour Kenya,Standard
+TXN-00909,2024-12-01,Kenya,Transfers,2007.03,3.21,Mobile Money,Yes,Safaricom,Standard
+TXN-00910,2024-02-15,Ghana,Food & Dining,46.09,0.83,QR Code,No,KFC Ghana,Standard
+TXN-00911,2024-03-02,Kenya,Food & Dining,6.74,0.16,QR Code,No,Safaricom,Standard
+TXN-00912,2024-02-16,Ghana,Entertainment,34.3,0.83,QR Code,No,Palace Mall,Premium
+TXN-00913,2024-02-04,South Africa,Groceries,9.53,0.22,Mobile Money,No,DSTV SA,Standard
+TXN-00914,2024-12-24,Kenya,Travel,279.93,6.0,Mobile Money,No,Quickmart,Standard
+TXN-00915,2024-04-25,Kenya,Electronics,984.54,21.1,Mobile Money,No,Carrefour Kenya,Premium
+TXN-00916,2024-10-17,Ghana,Electronics,933.46,17.91,Mobile Money,No,Korle Bu Hospital,Premium
+TXN-00917,2024-12-05,Nigeria,Utilities,14.59,0.31,Mobile Money,No,EKEDC,Standard
+TXN-00918,2024-04-14,Nigeria,Travel,1452.79,29.28,Mobile Money,No,CMS Hospital,Premium
+TXN-00919,2024-04-02,Kenya,Groceries,77.61,1.57,Mobile Money,No,KQ Airways,Premium
+TXN-00920,2024-03-16,Nigeria,Food & Dining,5.75,0.13,Card,No,Chicken Republic,Standard
+TXN-00921,2024-10-19,Ghana,Food & Dining,28.61,0.6,QR Code,No,Accra Mall,Premium
+TXN-00922,2024-02-19,South Africa,Health,163.12,3.52,Mobile Money,No,Takealot,Premium
+TXN-00923,2024-05-24,Nigeria,Entertainment,11.92,0.23,Mobile Money,No,Jumia,Standard
+TXN-00924,2024-12-12,Nigeria,Transfers,1301.44,2.39,QR Code,No,Shoprite Nigeria,Business
+TXN-00925,2024-03-09,Ghana,Groceries,71.41,1.74,Card,No,Palace Mall,Standard
+TXN-00926,2024-07-18,South Africa,Health,305.28,6.43,Card,No,Eskom,Standard
+TXN-00927,2024-04-01,Kenya,Electronics,1275.05,31.02,Mobile Money,No,DStv Kenya,Premium
+TXN-00928,2024-04-28,Nigeria,Transfers,896.99,0.98,Mobile Money,Yes,GTBank,Standard
+TXN-00929,2024-12-09,South Africa,Electronics,951.89,19.03,Card,No,Woolworths,Premium
+TXN-00930,2024-09-21,Ghana,Food & Dining,43.8,0.98,Card,No,Accra Mall,Standard
+TXN-00931,2024-05-02,Ghana,Groceries,89.81,1.82,Mobile Money,No,Accra Mall,Standard
+TXN-00932,2024-02-24,Ghana,Health,257.97,5.89,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-00933,2024-04-19,Ghana,Entertainment,25.07,0.6,Mobile Money,No,Vodafone Ghana,Standard
+TXN-00934,2024-02-06,Nigeria,Entertainment,30.63,0.78,Mobile Money,No,Air Peace,Standard
+TXN-00935,2024-03-06,South Africa,Transfers,760.44,1.41,Card,No,DSTV SA,Standard
+TXN-00936,2024-02-17,Kenya,Entertainment,9.49,0.2,Mobile Money,Yes,Naivas,Standard
+TXN-00937,2024-02-25,Kenya,Groceries,14.75,0.38,QR Code,No,Java House,Premium
+TXN-00938,2024-11-03,Kenya,Travel,1155.27,22.3,Mobile Money,Yes,Naivas,Standard
+TXN-00939,2024-08-09,Ghana,Groceries,32.97,0.67,Mobile Money,No,ECG Ghana,Premium
+TXN-00940,2024-01-08,Kenya,Food & Dining,41.05,0.81,QR Code,No,Carrefour Kenya,Standard
+TXN-00941,2024-07-04,Nigeria,Health,48.99,1.01,Mobile Money,No,Slot,Standard
+TXN-00942,2024-12-20,Kenya,Food & Dining,14.98,0.32,QR Code,No,Equity Bank,Standard
+TXN-00943,2024-11-12,South Africa,Electronics,326.83,6.58,QR Code,No,Woolworths,Standard
+TXN-00944,2024-11-05,South Africa,Groceries,58.03,1.41,QR Code,No,FlySafair,Standard
+TXN-00945,2024-08-24,Nigeria,Groceries,92.75,1.96,Mobile Money,No,CMS Hospital,Business
+TXN-00946,2024-08-21,Nigeria,Entertainment,27.79,0.59,Mobile Money,No,Jumia,Premium
+TXN-00947,2024-08-08,Nigeria,Utilities,62.01,1.46,Card,No,EKEDC,Standard
+TXN-00948,2024-06-07,South Africa,Groceries,115.25,2.92,Mobile Money,No,Pick n Pay,Standard
+TXN-00949,2024-05-05,South Africa,Utilities,161.85,3.19,Mobile Money,No,FlySafair,Business
+TXN-00950,2024-12-23,Kenya,Entertainment,42.54,0.78,Mobile Money,No,Nairobi Hospital,Premium
+TXN-00951,2024-11-28,Kenya,Groceries,35.45,0.64,Card,No,Quickmart,Standard
+TXN-00952,2024-07-05,South Africa,Transfers,2087.04,3.5,Card,No,Eskom,Standard
+TXN-00953,2024-02-02,South Africa,Groceries,114.67,2.07,Card,No,Cape Union Mart,Premium
+TXN-00954,2024-08-27,Nigeria,Utilities,30.46,0.78,Mobile Money,No,CMS Hospital,Standard
+TXN-00955,2024-12-05,South Africa,Food & Dining,26.58,0.65,QR Code,No,FlySafair,Standard
+TXN-00956,2024-11-15,Nigeria,Transfers,1933.33,2.14,Mobile Money,No,Air Peace,Standard
+TXN-00957,2024-02-03,Nigeria,Entertainment,15.78,0.3,Mobile Money,No,Shoprite Nigeria,Standard
+TXN-00958,2024-10-10,Kenya,Electronics,767.9,14.34,Mobile Money,No,Nairobi Hospital,Business
+TXN-00959,2024-01-11,Kenya,Food & Dining,160.96,4.13,Mobile Money,No,KQ Airways,Business
+TXN-00960,2024-10-05,Ghana,Groceries,91.04,1.71,Card,No,Accra Mall,Standard
+TXN-00961,2024-11-16,Ghana,Entertainment,11.82,0.26,QR Code,No,Africa World Airlines,Standard
+TXN-00962,2024-11-26,Ghana,Groceries,214.66,4.73,QR Code,No,Maxmart,Premium
+TXN-00963,2024-12-11,Nigeria,Groceries,77.83,1.99,Mobile Money,No,CMS Hospital,Standard
+TXN-00964,2024-04-20,Ghana,Health,397.87,7.47,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-00965,2024-08-26,South Africa,Groceries,43.14,1.1,Mobile Money,No,Steers,Standard
+TXN-00966,2024-05-03,Kenya,Entertainment,26.3,0.53,QR Code,No,Quickmart,Standard
+TXN-00967,2024-12-19,Nigeria,Food & Dining,27.5,0.63,Card,No,Jumia,Standard
+TXN-00968,2024-11-11,Nigeria,Transfers,1351.0,3.72,Card,No,Shoprite Nigeria,Standard
+TXN-00969,2024-10-08,Ghana,Utilities,19.48,0.41,Mobile Money,No,Africa World Airlines,Standard
+TXN-00970,2024-06-15,Ghana,Food & Dining,34.43,0.85,Mobile Money,No,KFC Ghana,Standard
+TXN-00971,2024-12-13,South Africa,Electronics,287.96,7.48,Card,No,Cape Union Mart,Standard
+TXN-00972,2024-02-15,Kenya,Groceries,79.7,1.64,Mobile Money,No,KQ Airways,Standard
+TXN-00973,2024-01-26,Nigeria,Food & Dining,7.97,0.2,QR Code,No,Air Peace,Standard
+TXN-00974,2024-04-06,Kenya,Groceries,41.41,0.98,QR Code,No,Safaricom,Standard
+TXN-00975,2024-03-02,Kenya,Health,306.21,5.91,Mobile Money,No,Nairobi Hospital,Standard
+TXN-00976,2024-08-26,Kenya,Transfers,3479.86,6.19,Mobile Money,No,Equity Bank,Standard
+TXN-00977,2024-03-24,Ghana,Utilities,98.77,2.52,Card,No,MultiChoice Ghana,Standard
+TXN-00978,2024-01-15,South Africa,Travel,1996.68,46.71,Card,No,Cape Union Mart,Standard
+TXN-00979,2024-12-28,Kenya,Travel,1033.16,20.4,QR Code,No,DStv Kenya,Business
+TXN-00980,2024-10-20,Nigeria,Food & Dining,204.42,4.62,Mobile Money,No,Shoprite Nigeria,Business
+TXN-00981,2024-05-10,Nigeria,Health,477.75,10.34,Mobile Money,No,Jumia,Premium
+TXN-00982,2024-06-25,Nigeria,Health,161.79,3.63,Mobile Money,No,Air Peace,Standard
+TXN-00983,2024-11-23,Ghana,Utilities,169.75,4.29,Mobile Money,No,KFC Ghana,Premium
+TXN-00984,2024-02-01,Ghana,Food & Dining,46.34,1.18,Mobile Money,No,Accra Mall,Standard
+TXN-00985,2024-11-22,Nigeria,Food & Dining,30.0,0.63,Mobile Money,No,Slot,Standard
+TXN-00986,2024-05-26,South Africa,Food & Dining,78.24,1.87,Mobile Money,No,Netcare,Premium
+TXN-00987,2024-07-09,South Africa,Electronics,1160.36,24.74,Mobile Money,No,DSTV SA,Premium
+TXN-00988,2024-01-01,Kenya,Food & Dining,89.91,2.05,Mobile Money,No,KQ Airways,Premium
+TXN-00989,2024-04-13,Kenya,Transfers,7226.88,15.58,Mobile Money,No,Quickmart,Premium
+TXN-00990,2024-06-11,Nigeria,Food & Dining,49.06,1.08,Card,No,Air Peace,Standard
+TXN-00991,2024-11-06,South Africa,Electronics,378.07,8.71,Card,Yes,Checkers,Standard
+TXN-00992,2024-12-03,Ghana,Groceries,212.62,4.91,Card,No,Africa World Airlines,Premium
+TXN-00993,2024-05-18,South Africa,Entertainment,38.69,0.78,Mobile Money,No,Pick n Pay,Premium
+TXN-00994,2024-09-21,South Africa,Health,372.34,7.07,Mobile Money,No,Pick n Pay,Standard
+TXN-00995,2024-02-16,South Africa,Health,58.26,1.42,Card,No,FlySafair,Standard
+TXN-00996,2024-04-14,Nigeria,Food & Dining,172.19,3.35,Mobile Money,No,Dangote Store,Business
+TXN-00997,2024-09-28,Kenya,Health,703.28,16.11,Mobile Money,No,Safaricom,Business
+TXN-00998,2024-12-07,Ghana,Utilities,78.49,1.55,Mobile Money,No,Melcom,Standard
+TXN-00999,2024-05-08,Kenya,Transfers,1404.65,1.96,Mobile Money,No,Safaricom,Standard
+TXN-01000,2024-07-26,Nigeria,Travel,547.19,10.61,Card,No,Air Peace,Standard
+TXN-01001,2024-12-04,Ghana,Entertainment,40.73,1.04,Mobile Money,No,Palace Mall,Standard
+TXN-01002,2024-08-09,South Africa,Utilities,85.84,1.93,Card,No,FlySafair,Premium
+TXN-01003,2024-07-02,South Africa,Electronics,502.91,12.58,QR Code,No,DSTV SA,Standard
+TXN-01004,2024-01-06,South Africa,Food & Dining,18.49,0.36,Card,No,Steers,Standard
+TXN-01005,2024-02-11,Ghana,Transfers,2858.97,4.7,Mobile Money,Yes,Korle Bu Hospital,Standard
+TXN-01006,2024-08-17,Kenya,Utilities,171.13,4.19,Card,No,KQ Airways,Premium
+TXN-01007,2024-09-14,Nigeria,Food & Dining,49.15,1.08,QR Code,No,Slot,Standard
+TXN-01008,2024-07-20,Nigeria,Food & Dining,20.68,0.48,Card,No,Netflix Nigeria,Standard
+TXN-01009,2024-05-27,South Africa,Groceries,67.08,1.39,Mobile Money,No,DSTV SA,Standard
+TXN-01010,2024-10-09,Nigeria,Food & Dining,47.6,1.04,Mobile Money,No,Netflix Nigeria,Standard
+TXN-01011,2024-07-21,South Africa,Groceries,77.21,1.41,Mobile Money,No,FlySafair,Standard
+TXN-01012,2024-12-28,Ghana,Food & Dining,15.51,0.39,Mobile Money,No,Melcom,Standard
+TXN-01013,2024-12-28,Kenya,Health,38.24,0.78,Mobile Money,No,KQ Airways,Standard
+TXN-01014,2024-04-06,South Africa,Utilities,38.74,0.74,Card,No,DSTV SA,Standard
+TXN-01015,2024-09-22,Kenya,Utilities,69.51,1.79,Mobile Money,No,KPLC,Standard
+TXN-01016,2024-02-25,Nigeria,Groceries,105.76,2.46,Card,No,Slot,Standard
+TXN-01017,2024-02-16,Kenya,Groceries,99.67,1.94,Mobile Money,No,Equity Bank,Standard
+TXN-01018,2024-10-17,South Africa,Entertainment,25.43,0.49,Card,No,Netcare,Standard
+TXN-01019,2024-12-13,South Africa,Health,316.41,6.17,Card,No,Eskom,Standard
+TXN-01020,2024-12-19,Ghana,Groceries,163.99,3.27,QR Code,No,Melcom,Premium
+TXN-01021,2024-07-17,Nigeria,Electronics,349.88,7.51,Mobile Money,No,Jumia,Business
+TXN-01022,2024-05-15,Nigeria,Groceries,161.33,3.45,Mobile Money,No,Dangote Store,Premium
+TXN-01023,2024-04-20,Nigeria,Food & Dining,72.46,1.86,Mobile Money,No,Shoprite Nigeria,Premium
+TXN-01024,2024-08-08,Kenya,Groceries,77.46,1.84,Mobile Money,No,Safaricom,Standard
+TXN-01025,2024-07-06,South Africa,Food & Dining,37.8,0.9,Mobile Money,No,Takealot,Standard
+TXN-01026,2024-07-10,South Africa,Transfers,3423.14,4.56,Card,No,Woolworths,Standard
+TXN-01027,2024-09-14,Nigeria,Groceries,16.62,0.39,Card,No,Netflix Nigeria,Standard
+TXN-01028,2024-08-16,South Africa,Travel,122.09,2.86,Card,No,Checkers,Standard
+TXN-01029,2024-03-05,South Africa,Groceries,80.48,1.76,Card,No,Cape Union Mart,Premium
+TXN-01030,2024-04-15,Kenya,Food & Dining,97.08,2.35,QR Code,No,Equity Bank,Premium
+TXN-01031,2024-07-09,Ghana,Entertainment,49.04,1.22,Card,No,Vodafone Ghana,Standard
+TXN-01032,2024-01-19,South Africa,Health,302.86,5.92,QR Code,No,Eskom,Standard
+TXN-01033,2024-11-22,Ghana,Health,1232.73,23.91,QR Code,No,MultiChoice Ghana,Business
+TXN-01034,2024-06-14,South Africa,Electronics,484.64,11.44,Card,No,Cape Union Mart,Standard
+TXN-01035,2024-08-26,South Africa,Food & Dining,111.04,2.61,Card,No,Eskom,Business
+TXN-01036,2024-09-22,Kenya,Travel,793.24,17.16,Mobile Money,No,Carrefour Kenya,Standard
+TXN-01037,2024-01-10,Kenya,Food & Dining,12.52,0.24,QR Code,No,DStv Kenya,Premium
+TXN-01038,2024-09-25,Ghana,Health,128.42,3.06,Mobile Money,No,Korle Bu Hospital,Premium
+TXN-01039,2024-04-16,South Africa,Electronics,602.22,12.76,QR Code,No,Eskom,Premium
+TXN-01040,2024-08-06,Ghana,Transfers,2911.93,6.89,Mobile Money,Yes,Maxmart,Standard
+TXN-01041,2024-03-10,Kenya,Utilities,105.06,2.21,QR Code,No,Quickmart,Premium
+TXN-01042,2024-08-23,Nigeria,Health,353.18,7.57,Mobile Money,No,Shoprite Nigeria,Premium
+TXN-01043,2024-12-01,South Africa,Food & Dining,69.33,1.42,Mobile Money,No,Pick n Pay,Premium
+TXN-01044,2024-09-19,South Africa,Groceries,37.69,0.88,Card,No,Checkers,Premium
+TXN-01045,2024-07-02,Kenya,Electronics,411.36,9.36,Card,No,Java House,Business
+TXN-01046,2024-11-04,South Africa,Transfers,548.21,0.77,Mobile Money,No,Cape Union Mart,Premium
+TXN-01047,2024-03-22,Ghana,Groceries,158.7,4.05,Card,No,Africa World Airlines,Premium
+TXN-01048,2024-02-01,Kenya,Health,113.94,2.15,Mobile Money,No,KQ Airways,Standard
+TXN-01049,2024-01-04,Nigeria,Travel,648.53,16.07,Mobile Money,No,Netflix Nigeria,Standard
+TXN-01050,2024-11-20,Kenya,Groceries,23.87,0.57,Mobile Money,No,DStv Kenya,Standard
+TXN-01051,2024-03-16,Nigeria,Transfers,8690.25,20.3,Mobile Money,No,Slot,Business
+TXN-01052,2024-07-27,Nigeria,Groceries,71.19,1.29,Mobile Money,No,Dangote Store,Standard
+TXN-01053,2024-07-12,South Africa,Travel,1332.84,34.46,Card,No,Checkers,Premium
+TXN-01054,2024-04-23,Ghana,Travel,446.39,10.38,Mobile Money,No,ECG Ghana,Standard
+TXN-01055,2024-04-25,Ghana,Health,338.94,7.41,QR Code,No,ECG Ghana,Standard
+TXN-01056,2024-08-17,South Africa,Utilities,39.17,1.0,Card,No,DSTV SA,Standard
+TXN-01057,2024-02-01,South Africa,Groceries,19.9,0.51,Card,No,Netcare,Standard
+TXN-01058,2024-02-06,South Africa,Food & Dining,194.67,3.6,Card,No,FlySafair,Business
+TXN-01059,2024-07-12,Ghana,Entertainment,64.69,1.53,Mobile Money,No,Accra Mall,Business
+TXN-01060,2024-08-07,Nigeria,Food & Dining,16.07,0.31,Card,No,EKEDC,Standard
+TXN-01061,2024-02-01,Ghana,Transfers,4059.54,11.31,Mobile Money,No,Maxmart,Standard
+TXN-01062,2024-11-11,Kenya,Entertainment,116.86,2.57,Card,No,Nairobi Hospital,Business
+TXN-01063,2024-07-12,Ghana,Utilities,16.04,0.34,Mobile Money,No,KFC Ghana,Standard
+TXN-01064,2024-02-17,Nigeria,Groceries,75.37,1.56,Mobile Money,No,Air Peace,Standard
+TXN-01065,2024-06-12,Kenya,Health,150.95,3.41,QR Code,No,DStv Kenya,Business
+TXN-01066,2024-05-20,Kenya,Transfers,2381.34,6.75,Mobile Money,Yes,Java House,Standard
+TXN-01067,2024-06-07,Nigeria,Entertainment,29.62,0.71,QR Code,No,Shoprite Nigeria,Standard
+TXN-01068,2024-04-03,South Africa,Utilities,152.78,3.74,Card,No,DSTV SA,Premium
+TXN-01069,2024-08-20,South Africa,Health,69.2,1.65,Mobile Money,No,Netcare,Standard
+TXN-01070,2024-09-14,Nigeria,Entertainment,26.29,0.67,Mobile Money,No,EKEDC,Premium
+TXN-01071,2024-08-28,Nigeria,Transfers,2436.76,4.32,Mobile Money,Yes,CMS Hospital,Standard
+TXN-01072,2024-08-04,Nigeria,Health,546.41,10.68,Mobile Money,No,EKEDC,Business
+TXN-01073,2024-02-01,Nigeria,Entertainment,141.39,3.19,QR Code,Yes,EKEDC,Business
+TXN-01074,2024-11-03,Kenya,Food & Dining,22.28,0.51,QR Code,No,Quickmart,Standard
+TXN-01075,2024-08-16,Ghana,Transfers,4694.93,6.63,Card,No,Africa World Airlines,Standard
+TXN-01076,2024-07-10,South Africa,Entertainment,34.41,0.76,Card,No,Checkers,Standard
+TXN-01077,2024-02-12,South Africa,Transfers,2572.07,3.62,Mobile Money,No,Netcare,Premium
+TXN-01078,2024-05-18,Kenya,Food & Dining,21.77,0.56,Card,No,Nairobi Hospital,Premium
+TXN-01079,2024-12-01,Nigeria,Groceries,51.03,1.26,Mobile Money,No,Dangote Store,Standard
+TXN-01080,2024-06-01,South Africa,Food & Dining,16.32,0.32,Card,No,Eskom,Standard
+TXN-01081,2024-01-25,Nigeria,Groceries,194.21,4.93,QR Code,No,Dangote Store,Premium
+TXN-01082,2024-04-01,Nigeria,Entertainment,24.24,0.58,Card,No,Slot,Standard
+TXN-01083,2024-08-24,South Africa,Food & Dining,118.12,2.53,Card,No,Eskom,Business
+TXN-01084,2024-03-13,Nigeria,Health,364.93,7.39,Card,No,EKEDC,Standard
+TXN-01085,2024-10-10,Nigeria,Food & Dining,43.85,1.02,Card,No,Dangote Store,Premium
+TXN-01086,2024-01-10,Ghana,Food & Dining,14.83,0.32,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-01087,2024-07-28,Ghana,Food & Dining,9.38,0.24,Mobile Money,No,Vodafone Ghana,Standard
+TXN-01088,2024-03-25,South Africa,Electronics,220.56,4.28,Card,No,Netcare,Standard
+TXN-01089,2024-02-02,Kenya,Travel,847.95,19.02,Mobile Money,No,Safaricom,Standard
+TXN-01090,2024-12-01,Ghana,Entertainment,37.32,0.85,Mobile Money,No,Vodafone Ghana,Standard
+TXN-01091,2024-02-03,Nigeria,Food & Dining,50.25,1.07,Card,No,GTBank,Standard
+TXN-01092,2024-01-20,South Africa,Food & Dining,40.86,0.89,QR Code,No,Pick n Pay,Standard
+TXN-01093,2024-06-10,South Africa,Health,251.43,6.15,Card,No,Checkers,Standard
+TXN-01094,2024-10-23,Nigeria,Electronics,119.5,2.85,Mobile Money,No,Slot,Premium
+TXN-01095,2024-12-08,Ghana,Health,536.43,11.97,Mobile Money,No,Melcom,Premium
+TXN-01096,2024-08-22,Ghana,Travel,2103.14,42.79,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-01097,2024-04-11,South Africa,Groceries,90.07,2.26,Card,No,Checkers,Standard
+TXN-01098,2024-02-12,Ghana,Utilities,47.7,1.08,Card,No,Maxmart,Standard
+TXN-01099,2024-04-14,Ghana,Transfers,7178.01,12.08,Mobile Money,No,Maxmart,Premium
+TXN-01100,2024-12-19,Nigeria,Health,88.37,1.91,Mobile Money,No,Jumia,Standard
+TXN-01101,2024-10-16,South Africa,Groceries,56.32,1.32,QR Code,No,Checkers,Standard
+TXN-01102,2024-12-14,Nigeria,Food & Dining,44.16,0.84,Card,No,Dangote Store,Standard
+TXN-01103,2024-08-04,South Africa,Groceries,84.41,1.82,Card,No,DSTV SA,Premium
+TXN-01104,2024-05-16,Ghana,Entertainment,56.14,1.38,Mobile Money,No,Melcom,Premium
+TXN-01105,2024-08-12,Ghana,Travel,507.67,12.07,Mobile Money,No,Africa World Airlines,Standard
+TXN-01106,2024-05-11,Kenya,Travel,1309.91,33.3,Mobile Money,No,Quickmart,Standard
+TXN-01107,2024-12-02,South Africa,Entertainment,46.74,1.04,Card,No,FlySafair,Business
+TXN-01108,2024-05-06,Kenya,Electronics,714.01,14.5,QR Code,No,Carrefour Kenya,Standard
+TXN-01109,2024-12-22,Nigeria,Groceries,64.97,1.26,Card,No,Jumia,Standard
+TXN-01110,2024-08-07,Kenya,Entertainment,14.14,0.36,Mobile Money,No,DStv Kenya,Standard
+TXN-01111,2024-02-15,Nigeria,Groceries,184.33,3.97,Mobile Money,No,GTBank,Premium
+TXN-01112,2024-12-24,Ghana,Health,543.55,10.75,Mobile Money,No,MultiChoice Ghana,Premium
+TXN-01113,2024-04-21,South Africa,Transfers,3455.29,9.62,Mobile Money,Yes,Checkers,Standard
+TXN-01114,2024-05-27,Ghana,Entertainment,85.81,1.98,Mobile Money,No,Africa World Airlines,Premium
+TXN-01115,2024-09-09,Nigeria,Travel,1282.08,24.43,Card,Yes,Jumia,Standard
+TXN-01116,2024-11-24,Kenya,Food & Dining,38.62,0.91,Mobile Money,No,Equity Bank,Standard
+TXN-01117,2024-06-19,Nigeria,Food & Dining,57.49,1.44,Card,No,Netflix Nigeria,Standard
+TXN-01118,2024-07-21,Nigeria,Food & Dining,10.31,0.19,Card,No,Air Peace,Standard
+TXN-01119,2024-06-15,Nigeria,Transfers,2350.44,3.85,Mobile Money,No,GTBank,Standard
+TXN-01120,2024-10-16,South Africa,Health,504.18,9.19,Card,No,DSTV SA,Premium
+TXN-01121,2024-01-25,Nigeria,Transfers,4054.7,7.5,Mobile Money,Yes,Netflix Nigeria,Standard
+TXN-01122,2024-10-11,Ghana,Groceries,32.79,0.82,Mobile Money,No,KFC Ghana,Standard
+TXN-01123,2024-12-20,Ghana,Groceries,114.43,2.08,Mobile Money,No,MultiChoice Ghana,Standard
+TXN-01124,2024-12-25,South Africa,Groceries,31.57,0.7,QR Code,No,DSTV SA,Standard
+TXN-01125,2024-11-08,Nigeria,Groceries,54.3,1.22,Mobile Money,No,Shoprite Nigeria,Standard
+TXN-01126,2024-10-17,Kenya,Food & Dining,13.63,0.28,Mobile Money,No,KPLC,Standard
+TXN-01127,2024-01-24,Kenya,Entertainment,18.32,0.44,Mobile Money,No,Carrefour Kenya,Premium
+TXN-01128,2024-07-23,South Africa,Food & Dining,50.66,1.16,Mobile Money,No,DSTV SA,Standard
+TXN-01129,2024-03-20,South Africa,Entertainment,38.46,0.79,Card,No,Takealot,Standard
+TXN-01130,2024-07-10,Nigeria,Electronics,258.92,5.25,Card,No,CMS Hospital,Standard
+TXN-01131,2024-01-16,South Africa,Health,523.06,11.31,Card,No,Netcare,Premium
+TXN-01132,2024-07-16,Ghana,Transfers,4057.92,11.98,Mobile Money,Yes,Vodafone Ghana,Standard
+TXN-01133,2024-08-03,Kenya,Utilities,75.07,1.69,Mobile Money,No,Safaricom,Standard
+TXN-01134,2024-06-24,Nigeria,Groceries,71.31,1.52,Mobile Money,No,Jumia,Standard
+TXN-01135,2024-11-18,Nigeria,Health,195.32,4.27,Card,No,Slot,Standard
+TXN-01136,2024-12-14,Ghana,Food & Dining,23.79,0.57,Mobile Money,No,KFC Ghana,Premium
+TXN-01137,2024-01-14,Nigeria,Utilities,22.59,0.56,Mobile Money,Yes,Slot,Standard
+TXN-01138,2024-06-10,Ghana,Health,142.51,3.58,Mobile Money,No,Korle Bu Hospital,Standard
+TXN-01139,2024-07-07,South Africa,Health,249.72,5.44,Mobile Money,No,Pick n Pay,Standard
+TXN-01140,2024-03-23,South Africa,Groceries,24.84,0.46,QR Code,No,Netcare,Standard
+TXN-01141,2024-03-04,Ghana,Food & Dining,30.78,0.59,Mobile Money,No,Africa World Airlines,Standard
+TXN-01142,2024-05-01,South Africa,Electronics,1259.95,28.57,Card,No,DSTV SA,Premium
+TXN-01143,2024-12-18,Ghana,Transfers,804.49,1.98,Mobile Money,No,KFC Ghana,Standard
+TXN-01144,2024-02-17,Ghana,Entertainment,39.74,0.9,Mobile Money,No,Accra Mall,Standard
+TXN-01145,2024-09-16,Kenya,Groceries,32.24,0.82,Mobile Money,No,Nairobi Hospital,Standard
+TXN-01146,2024-11-11,Kenya,Health,326.75,6.99,Mobile Money,No,Carrefour Kenya,Standard
+TXN-01147,2024-04-13,Nigeria,Food & Dining,22.15,0.49,Card,No,EKEDC,Standard
+TXN-01148,2024-12-21,South Africa,Transfers,5077.34,10.05,Card,No,Checkers,Premium
+TXN-01149,2024-12-21,Nigeria,Groceries,60.2,1.41,Card,No,Jumia,Standard
+TXN-01150,2024-11-07,Nigeria,Groceries,14.18,0.31,Card,Yes,Air Peace,Premium
+TXN-01151,2024-05-12,South Africa,Travel,740.73,17.17,Card,No,Eskom,Standard
+TXN-01152,2024-04-02,South Africa,Entertainment,84.02,2.18,Card,No,Cape Union Mart,Premium
+TXN-01153,2024-10-21,South Africa,Entertainment,6.3,0.16,Mobile Money,No,Pick n Pay,Standard
+TXN-01154,2024-02-27,South Africa,Groceries,24.71,0.46,Card,No,Netcare,Premium
+TXN-01155,2024-09-24,Kenya,Entertainment,33.61,0.8,QR Code,No,Java House,Premium
+TXN-01156,2024-07-22,Nigeria,Entertainment,12.86,0.32,Card,No,Slot,Premium
+TXN-01157,2024-03-02,Nigeria,Electronics,179.73,4.31,Card,Yes,Air Peace,Standard
+TXN-01158,2024-08-04,Nigeria,Utilities,108.42,2.35,Mobile Money,No,Slot,Premium
+TXN-01159,2024-03-19,Ghana,Groceries,9.17,0.21,Mobile Money,No,Africa World Airlines,Standard
+TXN-01160,2024-05-22,Ghana,Health,307.22,5.86,Mobile Money,No,ECG Ghana,Standard
+TXN-01161,2024-04-19,Nigeria,Electronics,712.68,13.84,Mobile Money,No,Air Peace,Standard
+TXN-01162,2024-02-12,Ghana,Food & Dining,52.69,1.21,Card,No,Accra Mall,Premium
+TXN-01163,2024-06-18,Ghana,Health,265.48,6.23,Mobile Money,No,Maxmart,Standard
+TXN-01164,2024-08-24,South Africa,Groceries,64.68,1.41,Mobile Money,No,Pick n Pay,Premium
+TXN-01165,2024-07-15,Ghana,Food & Dining,37.36,0.68,Card,No,Melcom,Standard
+TXN-01166,2024-03-16,Nigeria,Transfers,4570.09,7.37,Mobile Money,Yes,Shoprite Nigeria,Standard
+TXN-01167,2024-06-20,Nigeria,Utilities,45.94,1.13,Mobile Money,No,Chicken Republic,Standard
+TXN-01168,2024-07-13,Nigeria,Health,556.59,14.03,Card,No,Air Peace,Premium
+TXN-01169,2024-12-13,Ghana,Groceries,41.67,0.95,Card,No,Accra Mall,Standard
+TXN-01170,2024-10-05,Ghana,Entertainment,9.07,0.22,Mobile Money,No,Palace Mall,Standard
+TXN-01171,2024-03-01,Ghana,Electronics,280.65,5.47,QR Code,No,Africa World Airlines,Standard
+TXN-01172,2024-03-18,South Africa,Food & Dining,23.96,0.52,Card,No,Cape Union Mart,Standard
+TXN-01173,2024-09-27,Nigeria,Electronics,1161.76,23.87,QR Code,No,Chicken Republic,Business
+TXN-01174,2024-12-27,Ghana,Health,222.96,4.63,Card,No,Melcom,Standard
+TXN-01175,2024-04-20,Kenya,Electronics,426.09,7.68,Mobile Money,No,Carrefour Kenya,Standard
+TXN-01176,2024-09-05,Nigeria,Groceries,18.4,0.39,Mobile Money,No,Air Peace,Standard
+TXN-01177,2024-06-27,Nigeria,Electronics,605.21,12.82,Card,No,Slot,Business
+TXN-01178,2024-05-24,Kenya,Health,38.43,0.79,Mobile Money,No,Nairobi Hospital,Premium
+TXN-01179,2024-01-21,South Africa,Food & Dining,37.95,0.76,Card,No,Cape Union Mart,Premium
+TXN-01180,2024-07-25,Nigeria,Food & Dining,25.07,0.61,QR Code,No,CMS Hospital,Standard
+TXN-01181,2024-11-03,Kenya,Food & Dining,129.06,2.53,Card,No,Nairobi Hospital,Business
+TXN-01182,2024-06-15,Nigeria,Groceries,49.12,1.23,Card,No,Chicken Republic,Standard
+TXN-01183,2024-09-25,South Africa,Utilities,42.12,0.76,Card,No,Takealot,Standard
+TXN-01184,2024-02-24,Kenya,Entertainment,8.78,0.16,Card,No,KQ Airways,Standard
+TXN-01185,2024-12-12,South Africa,Transfers,4136.58,11.04,Card,No,Cape Union Mart,Standard
+TXN-01186,2024-01-11,Nigeria,Groceries,275.13,6.89,Mobile Money,No,Slot,Business
+TXN-01187,2024-05-21,South Africa,Food & Dining,57.27,1.15,Card,No,DSTV SA,Standard
+TXN-01188,2024-12-26,Kenya,Electronics,435.53,10.82,Mobile Money,No,Java House,Standard
+TXN-01189,2024-08-07,South Africa,Food & Dining,85.72,1.73,Card,No,Pick n Pay,Premium
+TXN-01190,2024-09-09,Kenya,Electronics,972.1,19.63,Mobile Money,No,Java House,Premium
+TXN-01191,2024-02-08,Kenya,Food & Dining,20.83,0.49,Card,No,Equity Bank,Standard
+TXN-01192,2024-05-13,Nigeria,Utilities,38.77,0.95,Mobile Money,No,Netflix Nigeria,Standard
+TXN-01193,2024-04-23,Kenya,Food & Dining,41.34,0.93,Mobile Money,No,Java House,Standard
+TXN-01194,2024-02-24,South Africa,Food & Dining,22.34,0.52,Mobile Money,No,Pick n Pay,Standard
+TXN-01195,2024-09-19,Nigeria,Health,389.88,8.75,Mobile Money,No,Jumia,Standard
+TXN-01196,2024-02-20,South Africa,Groceries,31.67,0.6,Card,No,DSTV SA,Standard
+TXN-01197,2024-08-12,South Africa,Food & Dining,22.57,0.47,Mobile Money,No,Steers,Standard
+TXN-01198,2024-07-18,Nigeria,Entertainment,25.88,0.64,Mobile Money,No,GTBank,Standard
+TXN-01199,2024-06-01,Ghana,Food & Dining,14.47,0.37,Mobile Money,No,Palace Mall,Standard
+TXN-01200,2024-06-21,Kenya,Electronics,762.09,14.21,Mobile Money,No,Naivas,Premium
